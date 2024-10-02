@@ -42,9 +42,23 @@ function connectToWebSocket(cokie) {
     })
 
     originalWs.on('message', (message) => {
+
+        // if (JSON.parse(message.toString()).positions) {
+        //     console.log('::::: POSITIONS :::::')
+        //     if (JSON.parse(message.toString()).positions[0].speed != 0) {
+        //         console.log(JSON.parse(message.toString()).positions)
+        //     }
+        // }
+
         wss.clients.forEach((client) => {
             if (client.readyState === WebSocket.OPEN) {
-                client.send(message.toString())
+                if (JSON.parse(message.toString()).positions) {
+                    if (JSON.parse(message.toString()).positions[0].speed != 0) {
+                        client.send(message.toString())
+                    }
+                } else {
+                    client.send(message.toString())
+                }
             }
         })
     })

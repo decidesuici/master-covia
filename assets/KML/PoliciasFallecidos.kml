@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Indice de Policias fallecidos en cumplimiento </name>
+    <description>El análisis de los policías caídos en cumplimiento de su deber revela varios aspectos importantes y conmovedores. Además, el análisis de estos eventos también resalta la importancia de la profesionalización y capacitación constante de los policías para minimizar los riesgos asociados a su labor. La figura del policía caído se utiliza para reforzar la imagen de la policía como una institución comprometida con la protección de la comunidad, incluso a costa de la vida de sus miembros</description>
+    <Style id="icon-1657-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1657-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1657-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1657-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1657-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1657-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1657-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1657-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1657-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1657-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ESTADOS</name>
+      <Placemark>
+        <name>AGUASCALIENTES</name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -102.291513,21.885325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAJA CALIFORNIA: 10</name>
+        <description><![CDATA[18	1	2024	Josué Ramírez Canales		Tijuana	Municipal	Policía	Hombre	Franco	https://diariotijuana.info/2024/01/policia-0-22-canales-asesinado-a-tiros-por-la-espalda-frente-al-swapmeet-fundadores<br>30	1	2024	Keevyn Gaxiola Perales		Tijuana	Estatal	Policía	Hombre	Franco	https://jornadabc.com.mx/bajacalifornia/asesinato-de-agente-de-la-fesc-sin-relacion-con-otros-ataques-a-policias-fiscal/<br>9	2	2024	Raúl Adrián Herrera Garzón		Ensenada	Municipal	Policía	Hombre	Activo	https://zetatijuana.com/2024/02/matan-a-policia-en-la-colonia-independencia-en-ensenada/<br>16	2	2024	Gabriel Cintura Castellanos	46	Ensenada	Municipal	Policía	Hombre	Activo	https://www.nmas.com.mx/tijuana/personas-armadas-asesinan-a-policia-municipal-en-una-gasolinera-en-ensenada/<br>10	3	2024	Alfredo Pérez Obispo		Tijuana	Estatal	Ministerial	Hombre	Franco	https://www.infobae.com/mexico/2024/03/11/sicarios-asesinan-a-agente-de-la-fiscalia-de-baja-california-en-tijuana/<br>22	3	2024	Josué Valladolid Andrade		Tecate	Municipal	Policía	Hombre	Franco	https://laopinion.com/2024/03/22/asesinan-a-policia-de-baja-california-que-regreso-a-su-cargo-tras-ser-separado-por-vinculos-con-el-narco/<br>13	5	2024			Tijuana	Federal	Guardia Nacional	Hombre	Activo	https://puntonorte.info/2024/05/13/ejecutan-a-teniente-de-la-guardia-nacional-en-tijuana/<br>14	5	2024	Julio César Silva Herrera		Tijuana	Municipal	Policía	Hombre	Franco	https://www.milenio.com/policia/asesinan-a-tiros-a-jefe-de-policia-en-tijuana<br>15	5	2024	Lenin Guillermo Salazar	30	Tijuana	Municipal	Policía	Hombre	Franco	https://www.telemundo20.com/noticias/mexico/policias-asesinados-tijuana-pone-alerta-baja-california/2382418/<br>28	7	2024	Justo Gutiérrez De la Torre	35	Tijuana	Municipal	Policía	Hombre	Franco	https://www.elsoldetijuana.com.mx/policiaca/asesinan-a-policia-municipal-de-tijuana-en-el-fraccionamiento-quinta-marsella-12311485.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -115.221133,30.509808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAJA CALIFORNIA SUR </name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.05933,26.087095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHIAPAS: 14</name>
+        <description><![CDATA[5	1	2024	Laura Soledad N		Venustiano Carranza	Municipal	Policía	Mujer	Franco	https://www.jornada.com.mx/noticia/2024/01/05/estados/asesinan-a-mujer-policia-en-venustiano-carranza-chiapas-3369<br>24	2	2024	Germán Alegría Estrada		Berriozabal	Municipal	Policía	Hombre	Activo	https://www.elheraldodechiapas.com.mx/policiaca/encuentran-muertos-a-los-desaparecidos-de-berriozabal-11494750.html<br>24	2	2024	Ulises Gómez de la Cruz	37	Berriozabal	Municipal	Policía	Hombre	Activo	https://www.radioformula.com.mx/nacional/2024/2/24/torturan-matan-director-de-seguridad-publica-municipal-secuestrado-en-berriozabal-chiapas-803563.html<br>24	2	2024	Rafael Martín Vázquez Pérez	32	Berriozabal	Municipal	Policía	Hombre	Activo	https://www.radioformula.com.mx/nacional/2024/2/24/torturan-matan-director-de-seguridad-publica-municipal-secuestrado-en-berriozabal-chiapas-803563.html<br>Chiapas	16	3	2024	Juan N		Ocozocoautla	Estatal	Ministerial	Hombre	Activo	https://www.jornada.com.mx/noticia/2024/03/16/estados/grupo-armado-mata-a-dos-agentes-de-la-fge-de-chiapas-7504<br>Chiapas	16	3	2024	Ricardo N		Ocozocoautla	Estatal	Ministerial	Hombre	Activo	https://www.jornada.com.mx/noticia/2024/03/16/estados/grupo-armado-mata-a-dos-agentes-de-la-fge-de-chiapas-7504<br>Chiapas	19	3	2024			Ocozocoautla	Federal	Guardia Nacional	Hombre	Activo	https://www.infobae.com/mexico/2024/03/19/emboscada-a-la-guardia-nacional-en-ocozocoautla-chiapas-deja-un-agente-muerto-y-dos-heridos/<br>9	4	2024			Ocozocoautla	Estatal	Policía	Hombre	Activo	https://www.dallasnews.com/espanol/al-dia/mexico/2024/04/09/policias-muertos-ocozocoautla-telecom-sicarios-region-fraylesca-chiapas/<br>9	4	2024			Ocozocoautla	Estatal	Policía	Hombre	Activo	https://www.dallasnews.com/espanol/al-dia/mexico/2024/04/09/policias-muertos-ocozocoautla-telecom-sicarios-region-fraylesca-chiapas/<br>28	5	2024	Rosemberg N.		Ocozocoautla	Estatal	Policía	Hombre	Activo	https://www.elheraldodechiapas.com.mx/policiaca/ataque-armado-a-la-base-de-la-policia-en-ocozocoautla-11992452.html<br>29	6	2024	Tres víctimas (se desconocen los nombres)		Reforma	Municipal	Policía	Hombre	Activo	https://diariodechiapas.com/la-roja/acribillan-a-policias-2/<br>29	6	2024	Tres víctimas (se desconocen los nombres)		Reforma	Municipal	Policía	Hombre	Activo	https://diariodechiapas.com/la-roja/acribillan-a-policias-2/<br>29	6	2024	Tres víctimas (se desconocen los nombres)		Reforma	Municipal	Policía	Hombre	Activo	https://diariodechiapas.com/la-roja/acribillan-a-policias-2/<br>2	7	2024	Aldair "N"	31	Tapachula	Estatal	Policía	Hombre	Franco	https://diariodechiapas.com/la-roja/asesinan-a-policia/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -93.074077,16.846962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHIHUAHUA: 1</name>
+        <description>27	5	2024	Juan Carlos B. B.		Valle de Zaragoza	Municipal	Policía	Hombre	Activo	https://www.excelsior.com.mx/nacional/atentan-contra-director-policia-valle-de-zaragoza-muere-su-escolta/1654383</description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -105.969868,28.689764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMPECHE</name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.534909,19.830125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CIUDAD DE MÉXICO: 2</name>
+        <description><![CDATA[2	1	2024	Fernando Jaloma		Iztacalco	Estatal	Ministerial	Hombre	Activo	https://www.sdpnoticias.com/estados/cdmx/balacera-en-iztacalco-identifican-a-fernando-jalomo-como-el-agente-de-la-fiscalia-de-cdmx-que-protegia-a-extorsionadores-de-rojo-gomez/<br>Ciudad de México	17	3	2024			Azcapotzalco	Estatal	Policía	Hombre	Activo	https://www.jornada.com.mx/noticia/2024/03/17/capital/sujeto-asesina-a-policia-y-hiere-a-otro-mas-en-azcapotzalco-5648]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1315,19.417998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLIMA: 7</name>
+        <description><![CDATA[11	3	2024	José Antonio Álvarez Calvillo		Villa de Álvarez	Estatal	Ministerial	Hombre	Franco	https://twitter.com/vivonoticiascol/status/1767319021664579710<br>23	3	2024			Comala	Municipal	Policía	Hombre	Franco	https://diariodecolima.com/noticias/detalle/2024-03-23-ejecutan-a-un-polica-municipal-en-comala<br>17	4	2024			Villa de Álvarez	Municipal	Policía	Hombre	Franco	https://www.milenio.com/estados/matan-policia-villa-alvarez-colima-tercero-ano<br>19	4	2024	José Luis N. 	45	Villa de Álvarez	Municipal	Policía	Hombre	Franco	https://www.debate.com.mx/estados/Matan-a-comandante-de-policia-municipal-en-Colima-seria-el-segundo-esta-semana-20240419-0112.html<br>1	5	2024	Alejandro Flores Martínez		Colima	Estatal	Policía	Hombre	Franco	https://www.debate.com.mx/estados/Matan-a-policia-estatal-frente-a-su-familia-en-Colima-era-su-dia-de-descanso-20240502-0061.html<br>14	5	2024			Colima	Estatal	Policía	Hombre	Activo	https://www.eluniversal.com.mx/estados/matan-a-un-policia-estatal-y-hieren-a-3-mas-en-ataque-armado-en-colima/<br>5	7	2024	Fernando "N"	53	Comala	Municipal	Policía	Hombre	Franco	https://www.colimanoticias.com/asesinan-a-un-policia-municipal-en-comala/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -103.81261,19.260081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DURANGO: </name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.733141,24.008115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTADO DE MÉXICO: 21</name>
+        <description><![CDATA[4	1	2024	Reynaldo Gómez Cruz		Atlacomulco	Municipal	Policía	Hombre	Activo	https://www.la-prensa.com.mx/policiaca/muere-policia-municipal-durante-persecucion-en-atlacomulco-el-presunto-homicida-es-detenido-11238477.html<br>4	1	2024	Antonio Fernández Domínguez		Xonacatlán	Municipal	Policía	Hombre	Activo	https://8columnas.com.mx/estado-de-mexico/muere-el-subdirector-de-seguridad-publica-de-xonacatlan-tras-asalto-en-negocio-de-comida/<br>8	1	2024	Luis Enrique Hernández Callejas	29	Ixtapaluca	Estatal	Ministerial	Hombre	Franco	https://www.digitalmex.mx/seguridad/story/46669/asesinan-policia-investigacion-cdmx-ixtapaluca-menor-herido<br>9	1	2024			Naucalpan	Estatal	Ministerial	Hombre	Activo	https://www.la-prensa.com.mx/policiaca/acribillan-a-policia-estatal-en-naucalpan-victima-aparente-de-un-ataque-directo-11130733.html<br>31	1	2024			Toluca	Estatal	Policía	Hombre	Franco	https://www.infobae.com/mexico/2024/02/01/policias-estatales-contra-municipales-rina-en-el-edomex-dejo-un-uniformado-muerto/<br>8	2	2024			Naucalpan	Municipal	Policía	Hombre	Activo	https://afondoedomex.com/valle-de-mexico/tiroteo-muere-policia-y-un-delincuente-durante-fuerte-balacera-en-edomex/<br>13	3	2024			Huehuetoca	Estatal	Policía	Hombre	Activo	https://www.elsoldetoluca.com.mx/local/asesinan-a-un-policia-estatal-en-huehuetoca-11593271.html<br>Estado de México	8	3	2024			Tultitlán	Municipal	Policía	Hombre	Activo	https://www.la-prensa.com.mx/policiaca/abaten-a-elemento-de-la-guardia-nacional-quien-asesino-a-policia-municipal-en-tultitlan-11567708.html<br>5	4	2024			Naucalpan	Estatal	Policía	Hombre	Activo	https://www.elsoldetoluca.com.mx/local/muere-custodio-durante-un-asalto-a-un-camion-de-una-tienda-departamental-en-naucalpan-11713267.html<br>14	4	2024	Lucero N.	34	Tenango del Aire	Municipal	Policía	Mujer	Activo	https://www.infobae.com/mexico/2024/04/14/asesinan-a-dos-policias-del-edomex-en-el-municipio-de-tenango-del-aire-habian-pedido-auxilio/<br>14	4	2024	Yovani N.	31	Tenango del Aire	Municipal	Policía	Hombre	Activo	https://www.infobae.com/mexico/2024/04/14/asesinan-a-dos-policias-del-edomex-en-el-municipio-de-tenango-del-aire-habian-pedido-auxilio/<br>15	4	2024	José Abraham Aldeco Cosme		Naucalpan	Municipal	Policía	Hombre	Activo	https://www.elsoldetoluca.com.mx/policiaca/muere-policia-de-naucalpan-fue-herido-por-un-presunto-asaltante-11760465.html<br>7	5	2024	Víctor Maldonado		Ecatepec	Municipal	Policía	Hombre	Activo	https://www.milenio.com/policia/asesinan-a-policia-municipal-de-ecatepec<br>17	5	2024			Hueypoxtla	Estatal	Policía	Hombre	Activo	https://lasillarota.com/hidalgo/estado/2024/5/17/en-enfrentamiento-con-presuntos-delincuentes-muere-policia-en-limites-de-hidalgo-edomex-483206.html<br>25	5	2024			Tlalnepantla	Municipal	Policía	Hombre	Activo	https://www.la-prensa.com.mx/policiaca/ultiman-a-dos-policias-en-la-avenida-lago-de-guadalupe-tlalnepantla-11979167.html<br>25	5	2024			Tlalnepantla	Municipal	Policía	Hombre	Activo	https://www.la-prensa.com.mx/policiaca/ultiman-a-dos-policias-en-la-avenida-lago-de-guadalupe-tlalnepantla-11979167.html<br>6	6	2024	Raúl N.	47	Cuautitlán Izcalli	Estatal	Ministerial	Hombre	Activo	https://www.dallasnews.com/espanol/al-dia/mexico/2024/06/06/policia-investigacion-asesinado-colonia-el-rosario-cuautitlan-izcalli-edomex/<br>18	7	2024	Alberto Benjamín	35	Chalco	Estatal	Ministerial	Hombre	Franco	https://www.milenio.com/policia/encuentran-muerto-a-elemento-de-la-pdi-de-fgj-edomex-en-chalco<br>21	7	2024	Milton Ludgerio Morales Figuera	40	Coacalco	Estatal	Policía	Hombre	Franco	https://www.elfinanciero.com.mx/cdmx/2024/07/21/asesinan-a-mando-de-la-policia-de-la-cdmx-investigo-atentado-contra-ciro-gomez-leyva/<br>28	7	2024			Chimalhuacán	Estatal	Policía	Hombre	Activo	https://www.elgrafico.mx/la-roja/policia-asesinado-patrulla-persecucion-siete-detenidos-chimalhuacan<br>4	8	2024			Teoloyucan	Municipal	Policía	Hombre	Activo	https://www.infobae.com/mexico/2024/08/04/caen-cuatro-falsos-agentes-de-la-fiscalia-del-edomex-tras-enfrentamiento-en-teoloyucan/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -99.744763,19.422803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUANAJUATO: 38</name>
+        <description><![CDATA[24	1	2024	Víctor Acevedo Castro	34	Celaya	Municipal	Policía	Hombre	Activo	https://agoragto.com/celaya/policias-asesinados-eran-exfederales-3-de-ellos-todavia-no-cumplian-ni-un-ano-en-la-corporacion/<br>24	1	2024	Ezequiel del Ángel Hernández	33	Celaya	Municipal	Policía	Hombre	Activo	https://agoragto.com/celaya/policias-asesinados-eran-exfederales-3-de-ellos-todavia-no-cumplian-ni-un-ano-en-la-corporacion/<br>24	1	2024	David Isabel López Aguirre	31	Celaya	Municipal	Policía	Hombre	Activo	https://agoragto.com/celaya/policias-asesinados-eran-exfederales-3-de-ellos-todavia-no-cumplian-ni-un-ano-en-la-corporacion/<br>24	1	2024	José Arturo Ramírez Martínez	43	Celaya	Municipal	Policía	Hombre	Activo	https://agoragto.com/celaya/policias-asesinados-eran-exfederales-3-de-ellos-todavia-no-cumplian-ni-un-ano-en-la-corporacion/<br>25	1	2024			Celaya	Municipal	Tránsito	Hombre	Activo	https://zonafranca.mx/seguridad/ejecutan-a-policia-de-vialidad-de-celaya/<br>29	1	2024			Celaya	Municipal	Policía	Hombre	Activo	https://www.dallasnews.com/espanol/al-dia/mexico/2024/01/29/ataque-policias-tresguerras-celaya-sicarios-guanajuato-emboscada/<br>1	2	2024			Celaya	Municipal	Policía	Hombre	Activo	https://www.excelsior.com.mx/nacional/asesinan-a-otros-dos-policias-en-celaya-guanajuato/1633493<br>1	2	2024			Celaya	Municipal	Policía	Hombre	Activo	https://www.excelsior.com.mx/nacional/asesinan-a-otros-dos-policias-en-celaya-guanajuato/1633493<br>7	2	2024			Abasolo	Estatal	Policía	Hombre	Franco	https://www.eluniversal.com.mx/estados/matan-a-policia-junto-a-sus-hijos-y-queman-su-casa-en-abasolo-guanajuato/<br>7	2	2024	José Luis Hernández Olalde		Comonfort	Municipal	Policía	Hombre	Activo	https://periodicocorreo.com.mx/municipios/quien-era-el-policia-de-comonfort-asesinado-en-empalme-escobedo-20240207-91794.html<br>10	2	2024			Yuriria	Municipal	Policía	Hombre	Franco	https://latinus.us/2024/02/10/policia-municipal-es-asesinado-en-su-hogar-por-grupo-armado-en-el-municipio-guanajuatense-de-yuriria/<br>14	2	2024	Marcos García Muñoz		Apaseo El Alto	Municipal	Policía	Hombre	Activo	https://www.am.com.mx/guanajuato/2024/2/14/identifican-al-policia-asesinado-en-bodega-aurrera-en-apaseo-el-alto-694924.html<br>17	2	2024	Rubén Guzmán Juárez		San Luis de la Paz	Municipal	Policía	Hombre	Franco	https://www.nacion321.com/estados/sigue-la-violencia-asesinan-a-2-policias-en-guanajuato-hay-uno-mas-herido<br>17	2	2024			Cortázar	Municipal	Policía	Mujer	Franco	https://periodicocorreo.com.mx/seguridad/privan-de-la-libertad-y-asesinan-a-mujer-policia-en-ataque-armado-en-cortazar-20240217-92586.html#google_vignette<br>20	2	2024		31	Celaya	Municipal	Policía	Mujer	Franco	https://www.nacion321.com/estados/asesinan-a-mujer-policia-y-a-su-hija-en-celaya-guanajuato<br>28	2	2024			Celaya	Municipal	Policía	Hombre	Franco	https://www.dallasnews.com/espanol/al-dia/mexico/2024/02/29/celaya-policia-muerto-colonia-obrero-mundial/<br>3	3	2024	Claudia Karina García		Irapuato	Municipal	Tránsito	Mujer	Activo	https://www.infobae.com/mexico/2024/03/04/grupo-sombra-del-cartel-de-santa-rosa-de-lima-se-adjudica-muerte-de-dos-policias-en-guanajuato/<br>3	3	2024	Antonio Torres Rodríguez		Irapuato	Municipal	Tránsito	Hombre	Activo	https://www.infobae.com/mexico/2024/03/04/grupo-sombra-del-cartel-de-santa-rosa-de-lima-se-adjudica-muerte-de-dos-policias-en-guanajuato/<br>3	3	2024	Antonio Torres Rodríguez		Irapuato	Municipal	Tránsito	Hombre	Activo	https://www.infobae.com/mexico/2024/03/04/grupo-sombra-del-cartel-de-santa-rosa-de-lima-se-adjudica-muerte-de-dos-policias-en-guanajuato/<br>Guanajuato	14	3	2024	Juan Manuel Moreno		Salamanca	Municipal	Policía	Hombre	Activo	https://latinus.us/2024/03/15/asesinan-dos-policias-salamanca-ataque-menos-kilometro-comandancia/<br>8	4	2024			Celaya	Municipal	Policía	Mujer	Activo	https://www.milenio.com/estados/mujer-policia-celaya-es-asesinada-brindaba-servicio-fijo<br>10	4	2024	David N.		Villagrán	Municipal	Policía	Hombre	Franco<br>22	4	2024	Miguel Ángel N. 		Irapuato	Municipal	Tránsito	Hombre	Activo	https://www.periodicocorreo.com.mx/seguridad/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -101.292889,21.014778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUERRERO: 12</name>
+        <description><![CDATA[24	1	2024	Higinio Villanueva		Taxco	Estatal	Ministerial	Hombre	Franco	https://elpais.com/mexico/2024-01-24/asesinados-dos-policias-de-la-fiscalia-de-guerrero-en-taxco.html<br>24	1	2024	Ángel Meza		Taxco	Estatal	Ministerial	Hombre	Franco	https://elpais.com/mexico/2024-01-24/asesinados-dos-policias-de-la-fiscalia-de-guerrero-en-taxco.html<br>14	2	2024	Santos N.	47	Acapulco	Municipal	Policía	Hombre	Franco	https://suracapulco.mx/asesinan-a-dos-hombres-en-la-postal-uno-era-policia-municipal/<br>3	4	2024	Armando N	35	Coyuca de Benítez	Estatal	Policía	Hombre	Franco	https://www.debate.com.mx/policiacas/Terminaron-calcinados-Matan-e-incendian-a-dos-hombres-en-Guerrero-uno-era-policia-20240403-0185.html<br>3	4	2024	Armando N	35	Coyuca de Benítez	Estatal	Policía	Hombre	Franco	https://www.debate.com.mx/policiacas/Terminaron-calcinados-Matan-e-incendian-a-dos-hombres-en-Guerrero-uno-era-policia-20240403-0185.html<br>10	4	2024			Marquelia	Municipal	Policía	Hombre	Franco	https://mexico.quadratin.com.mx/asesinan-a-policia-y-familiares-se-llevan-cuerpo-en-guerrero/<br>11	4	2024	Eduardo Chávez Manzanares		Acapulco	Municipal	Tránsito	Hombre	Activo	https://www.elsoldeacapulco.com.mx/policiaca/asesinan-a-balazos-al-director-de-la-policia-vial-de-acapulco-11740794.html<br>1	5	2024			Acapulco	Municipal	Policía	Hombre	Franco	https://sintesisdeguerrero.com.mx/2024/05/01/policia-municipal-asesinado-en-rena/<br>18	6	2024			Zihuatanejo	Municipal	Policía	Hombre	Activo	https://www.elsoldeacapulco.com.mx/policiaca/muere-policia-ministerial-tras-enfrentamiento-en-zihuatanejo-12102964.html<br>29	7	2024	Adrián "N"	35	Acapulco	Tránsito	Policía	Hombre	Franco	https://www.elsoldeacapulco.com.mx/policiaca/asesinan-a-transito-y-hieren-a-su-pareja-en-pie-de-la-cuesta-12314987.html<br>30	7	2024	César Tapia Escobar		Acapulco	Estatal	Policía	Hombre	Activo	https://sintesisdeguerrero.com.mx/2024/07/30/privan-de-la-vida-a-elemento-de-la-secretaria-de-seguridad-publica-de-guerrero-mientras-intenta-cobrar-cuota/<br>6	8	2024	Alejandro "N"		Acapulco	Estatal	Policía	Hombre	Activo	https://www.elsoldeacapulco.com.mx/policiaca/asesinan-a-balazos-a-policia-estatal-en-el-poblado-del-bejuco-12357932.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -99.602786,17.605179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HIDALGO: 2</name>
+        <description><![CDATA[26	5	2024			Tecozautla	Estatal	Policía	Hombre	Activo	https://www.eluniversal.com.mx/estados/violencia-en-hidalgo-asesinan-a-policia-al-trasladar-camioneta-con-reporte-de-robo/<br>4	6	2024		30	Tizayuca 	Estatal	Policía	Hombre	Activo	-https://lasillarota.com/hidalgo/estado/2024/6/4/mexico-pachuca-disparan-contra-escolta-lo-localizan-muerto-la-altura-de-tizayuca-486066.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -98.767948,20.071854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JALISCO: 11</name>
+        <description><![CDATA[19	1	2024	José Guadalupe Covarrubias		Guadalajara	Estatal	Ministerial	Hombre	Franco	https://www.informador.mx/jalisco/Seguridad-en-Jalisco-Confirman-asesinato-de-policia-investigador-en-Guadalajara-tenia-mas-de-30-anos-de-servicio-20240119-0143.html<br>7	2	2024			Huejúcar	Municipal	Policía	Hombre	Activo	https://jalisco.quadratin.com.mx/principal/emboscan-a-policias-en-huejucar-hay-2-muertos/<br>7	2	2024			Huejúcar	Municipal	Policía	Hombre	Activo	https://jalisco.quadratin.com.mx/principal/emboscan-a-policias-en-huejucar-hay-2-muertos/<br>10	2	2024	Juan José Corona Hernández.		Zapopan	Municipal	Policía	Hombre	Franco	https://www.mural.com.mx/encuentran-sin-vida-a-policia-de-guadalajara-plagiado/ar2755217<br>19	2	2024			Zapopan	Municipal	Policía	Hombre	Franco	https://www.telediario.mx/policia/matan-a-balazos-a-policia-de-zapopan-dentro-de-su-casa<br>28	3	2024	Fernando Pérez Echeverría		Guadalajara	Municipal	Policía	Hombre	Activo	https://www.debate.com.mx/guadalajara/Atacan-a-balazos-a-policias-de-Guadalajara-mientras-atendian-reporte-hay-al-menos-un-muerto-20240328-0190.html28	4	2024	Gerardo Daniel Inzúa Casao		Tlajomulco de Zúñiga	Estatal	Policía	Hombre	Franco	https://www.elfinanciero.com.mx/estados/2024/04/28/matan-a-comandante-de-la-secretaria-de-seguridad-de-jalisco-habria-sido-amenazado-por-el-cjng/<br>18	5	2024			Mezquitic	Municipal	Policía	Hombre	Activo	https://www.infobae.com/mexico/2024/05/19/pelea-entre-policias-de-jalisco-termina-con-la-muerte-de-un-uniformado/<br>22	5	2024			Unión de San Antonio	Estatal	Ministerial	Hombre	Activo	https://www.diariodemexico.com/index.php/mi-nacion/un-policia-muerto-y-dos-mas-heridos-deja-agresion-en-jalisco-sicario-fue-abatido<br>18	6	2024	Marco Antonio Rodríguez Torres		Tizapan de Alto	Municipal	Policía	Hombre	Franco	https://voxpopulinoticias.com.mx/2024/06/policia-de-tizapan-es-localizado-muerto-en-jalisco-autoridades-investigan-a-su-pareja/<br>30	7	2024	Juan José Gutiérrez Navarro		Tlaquepaque	Municipal	Policía	Hombre	Franco	https://www.elfinanciero.com.mx/estados/2024/07/30/matan-a-comandante-de-la-policia-de-guadalajara-frente-a-sus-hijos-habia-recibido-amenazas/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -103.351541,20.635463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MICHOACÁN: 8</name>
+        <description><![CDATA[5	1	2024	José Luis N.	47	Pátzcuaro	Estatal	Ministerial	Hombre	Activo	https://quadratin.com.mx/principal/asesinan-a-agente-de-la-fiscalia-en-patzcuaro/<br>Michoacán	18	3	2024	Cristal García Hurtado		Pátzcuaro	Estatal	Policía	Mujer	Activo	https://laopinion.com/2024/03/18/sicarios-asesinaron-y-decapitaron-a-una-jefa-policial-y-a-sus-dos-de-sus-escoltas-en-mexico/<br>Michoacán	18	3	2024			Pátzcuaro	Estatal	Policía	Mujer	Activo	https://laopinion.com/2024/03/18/sicarios-asesinaron-y-decapitaron-a-una-jefa-policial-y-a-sus-dos-de-sus-escoltas-en-mexico/<br>Michoacán	18	3	2024			Pátzcuaro	Estatal	Policía	Hombre	Activo	https://laopinion.com/2024/03/18/sicarios-asesinaron-y-decapitaron-a-una-jefa-policial-y-a-sus-dos-de-sus-escoltas-en-mexico/<br>12	6	2024	Heriberto Peña Cisneros	39	Tangamandapio	Municipal	Policía	Hombre	Franco	https://cambiodemichoacan.com.mx/2024/06/12/matan-a-comandante-de-la-policia-comunal-de-tarecuato/?amp=1<br>3	7	2024	Osvaldo B. / José Antonio P.		Cotija	Municipal	Policía	Hombre	Activo	https://mimorelia.com/noticias/nota-roja/dos-polic%C3%ADas-municipales-muertos-y-dos-heridos-tras-agresi%C3%B3n-del-grupo-criminal-en-cotija<br>16	7	2024			Tingambato	Municipal	Policía	Hombre	Activo	https://mimorelia.com/noticias/nota-roja/ataque-armado-deja-un-polic%C3%ADa-muerto-en-tingambato<br>29	7	2024			Morelia	Estatal	Policía	Hombre	Actvo	https://mimorelia.com/noticias/nota-roja/confirman-un-polic%C3%ADa-sin-vida-tras-agresi%C3%B3n-en-zona-sur-de-morelia]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -101.284964,19.716116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MORELOS: 6</name>
+        <description><![CDATA[19	5	2024	Miguel N.		Zacatepec	Municipal	Policía	Hombre	Franco	https://www.elsoldecuernavaca.com.mx/policiaca/policias-de-zacatepec-son-investigados-tras-asesinato-11951921.html<br>25	6	2024			Jiutepec	Municipal	Policía	Mujer	Activo	https://www.launion.com.mx/morelos/justicia/noticias/252506-matan-a-una-comandante-de-la-policia-de-jiutepec.html<br>15	7	2024	José Ernesto		Cuernavaca	Estatal	Policía	Hombre	Activo	https://www.elsoldecuernavaca.com.mx/policiaca/matan-a-policia-de-cuernavaca-en-centro-de-recoleccion-12244287.html<br>22	7	2024			Cuernavaca	Municipal	Policía	Hombre	Activo	https://www.codigosanluis.com/balacera-morelos-termina-policia-muerto/<br>22	7	2024	Luis Ricardo Gómez García		Cuernavaca	Municipal	Policía	Hombre	Franco	https://www.excelsior.com.mx/nacional/matan-a-policia-al-salir-de-su-base-en-cuernavaca/1663920<br>25	7	2024	Benito de la Curz		Xochitepec	Municipal	Policía	Hombre	Franco	https://www.launion.com.mx/morelos/justicia/noticias/254052-acribillan-a-un-policia-en-xochitepec.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -99.194133,18.933859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NAYARIT</name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.874556,21.491269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NUEVO LEÓN: 15</name>
+        <description><![CDATA[15	1	2024			García	Municipal	Policía	Hombre	Activo	https://www.nmas.com.mx/monterrey/matan-a-policia-municipal-tras-enfrentamiento-en-garcia-nuevo-leon/<br>4	2	2024	Eduardo Alexis G.	28	Apodaca	Municipal	Policía	Hombre	Franco	https://www.debate.com.mx/policiacas/Asesinan-a-policia-frente-a-su-esposa-en-Zuazua-Nuevo-Leon-20240205-0064.html<br>9	3	2024	Ana Karina N.	34	García	Estatal	Policía	Mujer	Franco	https://www.elfinanciero.com.mx/estados/2024/03/10/asesinan-a-mujer-policia-en-nuevo-leon-su-pareja-y-tambien-agente-es-el-principal-sospechoso/<br>20	4	2024			Monterrey	Estatal	Policía	Hombre	Franco	https://www.telediario.mx/policia/policia-de-fuerza-civil-es-asesinada-en-monterrey<br>21	4	2024	Baruch N		Apodaca	Municipal	Policía	Hombre	Franco	https://www.eluniversal.com.mx/estados/matan-a-balazos-a-policia-de-apodaca-nuevo-leon-el-uniformado-estaba-de-descanso-al-momento-de-la-agresion/<br>8	5	2024			Aramberri	Municipal	Policía	Hombre	Activo	https://www.meganoticias.mx/COLIMA/noticia/muere-policia-municipal-de-aramberri-nl-durante-ataque/517626<br>11	5	2024	Luis Daniel García Marroquín		Pesquería	Municipal	Policía	Hombre	Activo	https://www.milenio.com/politica/realizan-homenaje-cuerpo-presente-policia-asesinado-pesqueria<br>17	5	2024			Zuazua	Municipal	Policía	Mujer	Activo	https://www.telediario.mx/policia/mujer-policia-asesinada-afuera-tienda-zuazua-nuevo-leon<br>18	6	2024	Horacio Alvarado Reyes		Pesquería	Municipal	Tránsito	Hombre	Activo	https://abcnoticias.mx/seguridad/2024/6/18/ejecutan-oficial-de-transito-de-pesqueria-frente-una-escuela-219060.html<br>4	7	2024	Jesús Salvador Valle	35	Escobedo	Municipal	Policía	Hombre 	Activo	https://abcnoticias.mx/seguridad/2024/7/4/matan-policia-durante-persecucion-balacera-en-escobedo-220297.html<br>5	7	2024			Escobedo	Municipal	Policía	Hombre	Activo	https://www.elnorte.com/matan-a-policia-van-10-este-ano/ar2835505<br>6	7	2024	Amed López Hernández		García	Estatal	Policía	Hombre	Activo	https://www.telediario.mx/policia/garcia-nuevo-leon-muere-policia-fuerza-civil-balacera<br>7	7	2024			Escobedo	Municipal	Policía	Hombre	Activo	https://www.milenio.com/videos/policia/ataque-armado-escobedo-deja-policia-muerto-herido<br>4	8	2024			Galeana	Estatal	Policía	Hombre	Activo	https://www.yucatan.com.mx/mexico/2024/08/05/asesinan-a-policia-y-dejan-macabra-escena-en-carretera-de-nuevo-leon.html<br>5	8	2024			Galeana	Estatal	Policía	Hombre	Activo	https://www.omareli.com/post/confirma-fuerza-civil-nl-secuestro-y-asesinato-de-dos-de-sus-elementos]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -100.303881,25.68039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OAXACA: 5</name>
+        <description><![CDATA[14	1	2024	José Urbano O.R		San Pedro Tapanatepec	Estatal	Policía	Hombre	Franco	https://www.nvinoticias.com/roja/delitos/policia-estatal-de-oaxaca-es-hallado-muerto-con-huellas-de-vi0lencia/156184<br>18	1	2024			San Gabriel Mixtepec	Estatal	Ministerial	Hombre	Activo	https://www.jornada.com.mx/noticia/2024/01/18/estados/muere-agente-policia-y-abaten-a-201cel-catrin201d-en-operativo-en-oaxaca-1597<br>Oaxaca	17	3	2024	Gerardo Robles Lara		Santo Domingo Petapa	Municipal	Policía	Hombre	Franco	https://www.msn.com/es-mx/noticias/mexico/asesinan-al-director-de-la-polic%C3%ADa-en-municipio-de-oaxaca/ar-BB1k3YqN<br>Oaxaca	17	3	2024	Fabiola E. A		Santo Domingo Petapa	Municipal	Policía	Mujer	Activo	https://www.msn.com/es-mx/noticias/mexico/asesinan-al-director-de-la-polic%C3%ADa-en-municipio-de-oaxaca/ar-BB1k3YqN<br>21	7	2024	José L.P.		Barrio de la Soledad	Estatal	Policía	Hombre	Franco	https://www.nvinoticias.com/roja/delitos/ultiman-policia-auxiliar-y-ex-integrante-de-la-gn-en-matias-romero/163705]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -96.736807,17.090877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUEBLA: 7</name>
+        <description><![CDATA[26	3	2024	Adan N.		Puebla	Estatal	Policía	Hombre	Franco	https://exilio.mx/puebla/item/25288-confirman-un-muerto-y-4-policias-heridos-por-tiroteo-en-periplaza<br>28	4	2024	Daniel Cornelio Trinidad	41	Chignahuapan	Estatal	Policía	Hombre	Activo	https://elpopular.mx/ciudadania-y-gobierno/2024/04/29/homenaje-policias-asesinados-chignahuapan-asisten-amigos-familiares<br>28	4	2024	Cresencio Díaz Luna		Chignahuapan	Estatal	Policía	Hombre	Activo	https://elpopular.mx/ciudadania-y-gobierno/2024/04/29/homenaje-policias-asesinados-chignahuapan-asisten-amigos-familiares<br>28	4	2024	Francisco Durán Toledo		Chignahuapan	Estatal	Policía	Hombre	Activo	https://elpopular.mx/ciudadania-y-gobierno/2024/04/29/homenaje-policias-asesinados-chignahuapan-asisten-amigos-familiares<br>28	4	2024	Javier Varela Maldonado		Chignahuapan	Estatal	Policía	Hombre	Activo	https://elpopular.mx/ciudadania-y-gobierno/2024/04/29/homenaje-policias-asesinados-chignahuapan-asisten-amigos-familiares<br>8	5	2024	Rogelio Ocampo	44	Jolalpan	Municipal	Policía	Hombre	Activo	https://elpopular.mx/ciudadania-y-gobierno/2024/05/08/policia-municipal-asesinado-jolalpan-puebla<br>13	7	2024	Fidel Mercado		Chiautla de Tapia	Municipal	Policía	Hombre	Activo	https://www.informador.mx/mexico/Puebla-Asesinan-a-Fidel-Mercado-jefe-de-policia-durante-su-dia-de-descanso-20240713-0087.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -98.201254,19.037378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUERÉTARO: </name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.40188,20.56123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUINTANA ROO: 2</name>
+        <description><![CDATA[30	4	2024	Fermín Cortés Burgos		Othón P. Blanco	Estatal	Policía	Hombre	Activo	https://www.milenio.com/policia/asesinan-policia-municipal-othon-blanco-quintana-roo<br>2	8	2024			Benito Juárez	Municipal	Policía	Hombre	Activo	https://oficinista.mx/noticias/un-policia-y-otras-tres-personas-fueron-asesinados-a-tiros-cerca-de-un-resort-a-las-afueras-de-cancun/123174/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -87.931226,19.17883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN LUIS POTOSÍ: 6</name>
+        <description><![CDATA[15	1	2024			Soledad de Graciano Sánchez	Municipal	Tránsito	Hombre	Activo	https://www.elsoldesanluis.com.mx/policiaca/hallan-muerto-a-un-policia-municipal-de-soledad-en-hogares-populares-11286802.html<br>25	2	2024	Tania Soledad Gloria Ramos		Soledad de Graciano Sánchez	Estatal	Policía	Mujer	Franco	https://www.infobae.com/mexico/2023/03/01/detuvieron-a-un-agente-de-la-guardia-civil-de-san-luis-potosi-por-el-feminicidio-de-su-companera/<br>10	3	2024		28	Soledad de Graciano Sánchez	Estatal	Ministerial	Hombre	Franco	https://www.milenio.com/policia/san-luis-potosi-hombres-armados-ejecutan-policia<br>San Luis Potosí	14	3	2024	Andrés González		San Luis Potosí	Estatal	Policía	Hombre	Activo	https://elpais.com/mexico/2024-03-14/los-presos-de-la-carcel-la-pila-de-san-luis-potosi-provocan-incendios-durante-un-motin.html<br>San Luis Potosí	14	3	2024	Francisco Saavedra		San Luis Potosí 	Estatal	Policía	Hombre	Activo	https://elpais.com/mexico/2024-03-14/los-presos-de-la-carcel-la-pila-de-san-luis-potosi-provocan-incendios-durante-un-motin.html<br>29	7	2024			Rioverde	Municipal	Policía	Hombre	Activo	https://pulsoslp.com.mx/seguridad/muere-policia-de-rioverde-tras-ataque-de-hombre-armados/1827103]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -100.988779,22.173608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINALOA: 2</name>
+        <description><![CDATA[24	3	2024			Culiacán	Federal	Guardia Nacional	Hombre	Activo	https://www.telediario.mx/policia/culiacan-sinaloa-policia-guardia-nacional-muere-enfrentamiento<br>17	6	2024	José Miguel "N"	33	Angostura	Estatal	Policía	Hombre	Franco	https://es-us.noticias.yahoo.com/hallan-muerto-polic%C3%ADa-sinaloa-reportado-133449139.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -107.396176,24.83016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SONORA: 6</name>
+        <description><![CDATA[15	2	2024	Manuel de Jesús Martínez		Cajeme	Estatal	Ministerial	Hombre	Activo	https://www.jornada.com.mx/noticia/2024/02/15/estados/matan-a-jefe-de-agencia-ministerial-de-investigacion-criminal-de-sonora-5585<br>4	6	2024	Gerardo Camacho Ramírez		San Luis Río Colorado	Municipal	Policía	Hombre	Franco	https://www.msn.com/es-mx/noticias/mexico/jefe-de-la-polic%C3%ADa-de-slrc-fue-emboscado-en-una-veterinaria-al-bajar-de-su-camioneta-blindada/ar-BB1nD05Y?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1<br>2	7	2024	Luis Israel Esquer Espinoza	34	Caborca	Municipal	Policía	Hombre	Franco	https://www.diariodelyaqui.mx/policiaca/en-caborca-hallan-sin-vida-a-policia-privado-de-la-libertad/86387<br>4	6	2024	Jesús Ortiz		San Luis Colorado	Municipal	Policía	Hombre	Activo	https://www.msn.com/es-mx/noticias/mexico/jefe-de-la-polic%C3%ADa-de-slrc-fue-emboscado-en-una-veterinaria-al-bajar-de-su-camioneta-blindada/ar-BB1nD05Y?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1<br>18	7	2024	Miguel Amaro 		San Luis Río Colorado	Municipal	Policía	Hombre	Activo	https://www.radarsonora.com/mueren-2-policias-y-una-agente-queda-grave-en-ataque-armado/<br>18	7	2024	Julio Soltero		San Luis Río Colorado	Municipal	Policía	Hombre	Activo	https://www.radarsonora.com/mueren-2-policias-y-una-agente-queda-grave-en-ataque-armado/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -110.996294,29.095566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TABASCO: 2</name>
+        <description><![CDATA[21	6	2024	José Antonio "N"		Comalcaco	Estatal	Policía	Hombre	Activo	https://www.tabascohoy.com/lo-plagian-y-rescatan-sin-vida/<br>25	6	2024	Isidro "N"		Cárdenas	Estatal	Ministerial	Hombre	Franco	https://www.tabascohoy.com/torturan-y-ejecutan-a-ministerial-en-cardenas/]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -92.926585,17.983691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAMAULIPAS: 9</name>
+        <description><![CDATA[19	1	2024			Nuevo Laredo	Federal	Guardia Nacional	Hombre	Activo	https://www.elfinanciero.com.mx/estados/2024/01/19/balacera-en-la-autopista-monterrey-nuevo-laredo-muere-1-elemento-de-la-guardia-nacional/<br>7	5	2024	Iván Miguel Mijangos.		Río Bravo	Estatal	Policía	Hombre	Activo	https://latinus.us/2024/05/08/enfrentamiento-entre-guardia-civil-tamaulipas-grupo-armado-deja-policia-muerto-rio-bravo/<br>14	5	2024			Matamoros	Estatal	Policía	Hombre	Activo	https://elpais.com/mexico/2024-05-15/una-jornada-violenta-en-matamoros-deja-al-menos-dos-policias-asesinados.html<br>14	5	2024			Matamoros	Estatal	Policía	Hombre	Activo	https://elpais.com/mexico/2024-05-15/una-jornada-violenta-en-matamoros-deja-al-menos-dos-policias-asesinados.html<br>17	5	2024	Óscar David Banda Porras		Matamoros	Estatal	Policía	Hombre	Activo	https://www.elsoldetampico.com.mx/policiaca/dan-ultimo-adios-a-policia-asesinado-en-tamaulipas-11947854.html<br>23	6	2024	Osvaldo Gabriel Gómez Ferrusca		Matamoros	Estatal	Policía	Hombre	Activo	https://www.am.com.mx/nacional/2024/6/23/violencia-en-matamoros-deja-un-policia-muerto-tres-sicarios-abatidos-709706.html<br>3	8	2024	Luis Mario Torres Basoria		Abasolo	Estatal	Policía	Hombre	Activo	https://www.tvazteca.com/aztecanoticias/enfrentamiento-en-abasolo-tamaulipas-militares-y-policia-mueren-hay-sicarios-sin<br>3	8	2024			Abasolo	Federal	Guardia Nacional	Hombre	Activo	https://www.tvazteca.com/aztecanoticias/enfrentamiento-en-abasolo-tamaulipas-militares-y-policia-mueren-hay-sicarios-sin<br>3	8	2024			Abasolo	Federal	Guardia Nacional	Hombre	Activo	https://www.tvazteca.com/aztecanoticias/enfrentamiento-en-abasolo-tamaulipas-militares-y-policia-mueren-hay-sicarios-sin]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -99.168526,23.821441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TLAXCALA: 2</name>
+        <description><![CDATA[8	4	2024	Rubén Bernabé Rocha		Zacatelco	Estatal	Policía	Hombre	Activo	https://www.proceso.com.mx/nacional/estados/2024/4/9/matan-golpes-policia-de-tlaxcala-que-evito-el-linchamiento-de-presuntos-asesinos-de-anciano-326912.html<br>20	4	2024	Antonio Hernández Portillo		Zacatelco	Estatal	Policía	Hombre	Activo	https://www.elsoldemexico.com.mx/republica/sociedad/muere-policia-linchado-en-zacatelco-tlaxcala-11795608.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -98.237495,19.318154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VERACRUZ: 5</name>
+        <description><![CDATA[12	3	2024			Veracruz	Estatal	Policía	Hombre	Activo	https://www.nmas.com.mx/veracruz/ataque-armado-deja-un-policia-muerto-en-rio-medio-3-veracruz/<br>12	5	2024	Ulises N.	26	Amatlán de los Reyes	Estatal	Policía	Hombre	Franco	https://formato7.com/2024/05/12/asesinan-a-oficial-de-fuerza-civil-en-amatlan/<br>18	7	2024			Veracruz	Estatal	Policía	Mujer	Activo	https://www.alcalorpolitico.com/informacion/balacera-en-plaza-las-palmas-de-veracruz-puerto-una-policia-muerta-409636.html<br>23	7	2024	José Israel Laureano Valencia	29	Chichicaxtle	Estatal	Policía	Hombre	Activo	https://lasillarota.com/veracruz/estado/2024/7/23/israel-laureano-policia-de-la-fuerza-civil-de-veracruz-asesinado-en-puente-nacional-esto-se-sabe-493754.html]]></description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -96.934618,19.552895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YUCATÁN:</name>
+        <styleUrl>#icon-1657-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.519601,20.956727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZACATECAS: 1</name>
+        <description>7	7	2024	Ricardo Gaspar Nieto		Fresnillo	Estatal	Policía	Hombre	Franco	https://www.infobae.com/mexico/2024/07/07/acribillan-a-elemento-de-la-fiscalia-de-zacatecas-el-primero-del-ano-luego-del-asesinato-de-31-policias-en-2023/</description>
+        <styleUrl>#icon-1657-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -102.53912,22.789858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Otros </name>
+      <Placemark>
+        <name>Tepetlán</name>
+        <description>https://vistapress.com.mx/2024/07/03/fallecen-policias-en-el-cumplimiento-de-su-deber/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7974339,19.6734024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

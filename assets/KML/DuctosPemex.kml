@@ -1,0 +1,4561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ductos de Pemex 1</name>
+    <description/>
+    <Style id="line-FF0000-1000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-1000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-1000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-1000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-1000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ductos_Petroliferos</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Poliducto Rosarito-Mexicali<br>servicio: Poliducto<br>longitud: 148.400000000000006<br>capacidad_: 31000.000000000000000<br>capacida_1: 30000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Rosarito-Mexicali</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>148.400000000000006</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>31000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>30000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -117.070014,32.374907,0
+            -117.059772,32.376473,0
+            -117.059351,32.376775,0
+            -116.933196,32.407177,0
+            -116.921976,32.411635,0
+            -116.914131,32.413724,0
+            -116.90505,32.417866,0
+            -116.886906,32.428952,0
+            -116.869622,32.436167,0
+            -116.855734,32.443818,0
+            -116.845574,32.448115,0
+            -116.8171,32.454623,0
+            -116.804606,32.458321,0
+            -116.78799,32.460749,0
+            -116.773608,32.463317,0
+            -116.759023,32.462168,0
+            -116.748207,32.463276,0
+            -116.733545,32.464476,0
+            -116.720507,32.468245,0
+            -116.710424,32.472988,0
+            -116.693367,32.478743,0
+            -116.686331,32.484914,0
+            -116.67445,32.488979,0
+            -116.668654,32.493096,0
+            -116.666628,32.499475,0
+            -116.66218,32.504802,0
+            -116.658268,32.51005,0
+            -116.648805,32.515167,0
+            -116.635568,32.518022,0
+            -116.627331,32.518278,0
+            -116.61328,32.519843,0
+            -116.605488,32.519565,0
+            -116.595286,32.52104,0
+            -116.58554,32.524789,0
+            -116.575794,32.528537,0
+            -116.559691,32.53367,0
+            -116.53866,32.539042,0
+            -116.509097,32.540487,0
+            -116.449307,32.53455,0
+            -116.39191,32.518401,0
+            -116.362317,32.508568,0
+            -116.322419,32.496912,0
+            -116.299469,32.489863,0
+            -116.273654,32.485089,0
+            -116.238966,32.482968,0
+            -116.205262,32.480229,0
+            -116.185272,32.476954,0
+            -116.172812,32.475428,0
+            -116.138841,32.468487,0
+            -116.118852,32.4652,0
+            -116.101016,32.461607,0
+            -116.076539,32.460814,0
+            -116.062635,32.463226,0
+            -116.044233,32.470951,0
+            -116.026003,32.479588,0
+            -116.012255,32.488535,0
+            -116.004132,32.506542,0
+            -115.994664,32.52333,0
+            -115.983046,32.537605,0
+            -115.973418,32.545039,0
+            -115.959477,32.553073,0
+            -115.933945,32.561308,0
+            -115.888228,32.559674,0
+            -115.839068,32.563185,0
+            -115.726748,32.575348,0
+            -115.683761,32.578884,0
+            -115.67148,32.580619,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Poliducto Rosarito-Ensenada<br>servicio: Poliducto<br>longitud: 74.799999999999997<br>capacidad_: 20000.000000000000000<br>capacida_1: 20000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Rosarito-Ensenada</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>74.799999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>20000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>20000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -117.070014,32.374907,0
+            -117.062328,32.36513,0
+            -117.043577,32.325916,0
+            -117.0293,32.295221,0
+            -117.020734,32.283086,0
+            -117.004315,32.275234,0
+            -116.977903,32.26524,0
+            -116.957916,32.260243,0
+            -116.935787,32.250249,0
+            -116.919369,32.236686,0
+            -116.909375,32.223124,0
+            -116.901523,32.20385,0
+            -116.891529,32.181007,0
+            -116.890767,32.177069,0
+            -116.866426,32.08678,0
+            -116.853933,32.062688,0
+            -116.818242,32.018074,0
+            -116.776006,31.983274,0
+            -116.741801,31.952341,0
+            -116.720386,31.930331,0
+            -116.719502,31.929032,0
+            -116.682503,31.881967,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Poliducto Guaymas-Hermosillo<br>servicio: Poliducto<br>longitud: 129.000000000000000<br>capacidad_: 31000.000000000000000<br>capacida_1: 30000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Guaymas-Hermosillo</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>129.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>31000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>30000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -110.865832,27.93051,0
+            -110.87153,27.972367,0
+            -110.903571,29.02447,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Poliducto Guaymas-Cd. Obregón<br>servicio: Poliducto<br>longitud: 120.299999999999997<br>capacidad_: 24000.000000000000000<br>capacida_1: 23000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Guaymas-Cd. Obregón</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>120.299999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>23000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -110.865832,27.93051,0
+            -110.866581,27.952379,0
+            -110.869055,27.97446,0
+            -110.868865,27.977697,0
+            -110.868675,27.9796,0
+            -110.867533,27.981504,0
+            -110.865629,27.983407,0
+            -110.862583,27.985311,0
+            -110.857253,27.986643,0
+            -110.853827,27.986834,0
+            -110.842215,27.987595,0
+            -110.833268,27.987595,0
+            -110.825844,27.987595,0
+            -110.796364,27.984156,0
+            -110.784156,27.981884,0
+            -110.752938,27.975412,0
+            -110.710107,27.964372,0
+            -110.703402,27.963289,0
+            -110.648424,27.948659,0
+            -110.572757,27.919629,0
+            -110.496615,27.889172,0
+            -110.481386,27.877275,0
+            -110.357178,27.689773,0
+            -110.336715,27.6774,0
+            -110.299119,27.652654,0
+            -110.262476,27.633142,0
+            -110.14493,27.609348,0
+            -110.08354,27.598878,0
+            -109.925616,27.545729,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Poliducto Topolobampo-Guamúchil-Culiacán<br>servicio: Poliducto<br>longitud: 222.300000000000011<br>capacidad_: 34000.000000000000000<br>capacida_1: 34000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Topolobampo-Guamúchil-Culiacán</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>222.300000000000011</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>34000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>34000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -109.046698,25.615386,0
+            -109.016574,25.663211,0
+            -108.989507,25.684209,0
+            -108.963333,25.692538,0
+            -108.894329,25.68302,0
+            -108.813427,25.667553,0
+            -108.699213,25.614015,0
+            -108.586189,25.546201,0
+            -108.354191,25.358223,0
+            -108.04962,25.134554,0
+            -107.433305,24.772762,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noroeste<br>ducto: Ramal-Guamuchil<br>servicio: Poliducto<br>longitud: 0.400000000000000<br>capacidad_: 34000.000000000000000<br>capacida_1: 34000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noroeste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal-Guamuchil</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.400000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>34000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>34000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -108.110955,25.471483,0
+            -108.23508,25.270751,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Norte<br>ducto: Bidireccional Cd. Juárez-Chihuahua<br>servicio: Poliducto<br>longitud: 349.100000000000023<br>capacidad_: 25000.000000000000000<br>capacida_1: 25000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Norte</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Cd. Juárez-Chihuahua</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>349.100000000000023</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>25000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>25000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -106.478967,31.605176,0
+            -106.47339,31.571223,0
+            -106.559651,30.449832,0
+            -106.34074,29.719337,0
+            -106.043308,28.724723,0
+            -105.984992,28.597909,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Combustóleo-ducto Refineria Madero-CFE Altamira<br>servicio: Combustóleo-ducto<br>longitud: 29.000000000000000<br>capacidad_: 26000.000000000000000<br>capacida_1: 25000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Combustóleo-ducto Refineria Madero-CFE Altamira</value>
+          </Data>
+          <Data name="servicio">
+            <value>Combustóleo-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>29.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>26000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>25000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.807301,22.260109,0
+            -97.936208,22.396714,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Bidireccional Madero-Cadereyta<br>servicio: Poliducto<br>longitud: 488.100000000000023<br>capacidad_: 54000.000000000000000<br>capacida_1: 54000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Madero-Cadereyta</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>488.100000000000023</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>54000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>54000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.807301,22.260109,0
+            -97.890386,22.393116,0
+            -97.899167,22.405056,0
+            -97.949755,22.445545,0
+            -97.97887,22.47226,0
+            -97.99883,22.486009,0
+            -98.044227,22.504209,0
+            -98.067342,22.509364,0
+            -98.088916,22.514506,0
+            -98.107377,22.523931,0
+            -98.135004,22.549177,0
+            -98.223983,22.650014,0
+            -98.251618,22.682411,0
+            -98.274647,22.711198,0
+            -98.281472,22.736324,0
+            -98.298349,22.761495,0
+            -98.356088,22.814081,0
+            -98.390742,22.847917,0
+            -98.410039,22.858028,0
+            -98.433229,22.863131,0
+            -98.452555,22.867501,0
+            -98.508946,22.893498,0
+            -98.552211,22.915853,0
+            -98.590846,22.938185,0
+            -98.619408,22.967654,0
+            -98.67122,22.995734,0
+            -98.709132,23.013734,0
+            -98.730785,23.031698,0
+            -98.738487,23.055372,0
+            -98.743092,23.078325,0
+            -98.743061,23.094816,0
+            -98.739918,23.117038,0
+            -98.741414,23.145004,0
+            -98.753752,23.182309,0
+            -98.773053,23.234679,0
+            -98.784625,23.275565,0
+            -98.791506,23.342255,0
+            -98.79686,23.396037,0
+            -98.803795,23.434046,0
+            -98.827841,23.467056,0
+            -98.858888,23.506521,0
+            -98.903158,23.568216,0
+            -98.948241,23.646387,0
+            -98.967689,23.685109,0
+            -98.977025,23.717374,0
+            -98.994154,23.784053,0
+            -99.005842,23.814883,0
+            -99.022212,23.84571,0
+            -99.035473,23.882989,0
+            -99.050313,23.948227,0
+            -99.060477,23.997693,0
+            -99.06753,24.055045,0
+            -99.091792,24.138196,0
+            -99.103531,24.163998,0
+            -99.120747,24.190511,0
+            -99.170873,24.270758,0
+            -99.202246,24.328072,0
+            -99.219529,24.368911,0
+            -99.226617,24.393992,0
+            -99.240763,24.423363,0
+            -99.266657,24.449845,0
+            -99.29413,24.477036,0
+            -99.320101,24.525014,0
+            -99.35237,24.575841,0
+            -99.391014,24.6503,0
+            -99.424141,24.704692,0
+            -99.44865,24.755517,0
+            -99.482719,24.836415,0
+            -99.493136,24.887993,0
+            -99.506645,24.924507,0
+            -99.558931,25.013923,0
+            -99.704021,25.21186,0
+            -99.85671,25.454266,0
+            -99.947692,25.591713,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Ramal TAR Victoria<br>servicio: Poliducto<br>longitud: 3.000000000000000<br>capacidad_: 26000.000000000000000<br>capacida_1: 26000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal TAR Victoria</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>3.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>26000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>26000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.988158,23.760719,0
+            -99.094448,23.691612,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Poliducto Cadereyta-Santa Catarina<br>servicio: Poliducto<br>longitud: 83.599999999999994<br>capacidad_: 148000.000000000000000<br>capacida_1: 148000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Cadereyta-Santa Catarina</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>83.599999999999994</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>148000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>148000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.947692,25.591713,0
+            -100.48557,25.704781,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Norte<br>ducto: Poliducto El Paso-Cd. Juárez<br>servicio: Poliducto<br>longitud: 28.699999999999999<br>capacidad_: 31000.000000000000000<br>capacida_1: 31000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Norte</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto El Paso-Cd. Juárez</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>28.699999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>31000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>31000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -106.478967,31.605176,0
+            -106.506779,31.906054,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Norte<br>ducto: Poliducto Frontera-Cd. Juárez<br>servicio: Poliducto<br>longitud: 32.000000000000000<br>capacidad_: 45000.000000000000000<br>capacida_1: 0.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Norte</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Frontera-Cd. Juárez</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>32.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>45000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>0.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -106.478967,31.605176,0
+            -106.398927,31.904465,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Norte<br>ducto: Poliducto Gómez Palacio-Chihuahua<br>servicio: Poliducto<br>longitud: 433.699999999999989<br>capacidad_: 17000.000000000000000<br>capacida_1: 17000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Norte</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Gómez Palacio-Chihuahua</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>433.699999999999989</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>17000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>17000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -105.984992,28.597909,0
+            -106.002955,28.476268,0
+            -105.781403,28.081066,0
+            -105.745475,28.033162,0
+            -105.613741,27.919392,0
+            -105.476019,27.790652,0
+            -105.146684,27.377486,0
+            -104.946089,27.117012,0
+            -104.760464,26.967314,0
+            -104.440111,26.727798,0
+            -104.206582,26.497263,0
+            -104.026945,26.287686,0
+            -103.817368,26.114037,0
+            -103.758601,26.057229,0
+            -103.46821,25.562891,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Bidireccional Cadereyta-Reynosa-Brownsville<br>servicio: Poliducto<br>longitud: 270.899999999999977<br>capacidad_: 55000.000000000000000<br>capacida_1: 4900.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Cadereyta-Reynosa-Brownsville</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>270.899999999999977</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>55000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>4900.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.947692,25.591713,0
+            -99.753911,25.634121,0
+            -99.688284,25.631522,0
+            -99.453475,25.671455,0
+            -99.169149,25.802437,0
+            -98.793775,25.903069,0
+            -98.380064,26.021272,0
+            -98.303392,26.04044,0
+            -98.26825,26.045232,0
+            -98.25068,26.042037,0
+            -98.188384,26.002104,0
+            -97.967951,25.998909,0
+            -97.928017,25.850357,0
+            -97.696403,25.829591,0
+            -97.482341,25.870717,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Ramal La Retama-Reynosa<br>servicio: Poliducto<br>longitud: 10.600000000000000<br>capacidad_: 25000.000000000000000<br>capacida_1: 24000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal La Retama-Reynosa</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>10.600000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>25000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>24000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.278566,26.075418,0
+            -98.26825,26.045232,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Norte<br>ducto: Bidireccional Gómez Palacio-Chihuahua<br>servicio: Poliducto<br>longitud: 433.500000000000000<br>capacidad_: 23000.000000000000000<br>capacida_1: 22000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Norte</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Gómez Palacio-Chihuahua</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>433.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>23000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>22000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -103.46821,25.562891,0
+            -103.52545,25.622201,0
+            -103.598809,25.757756,0
+            -103.763477,26.036194,0
+            -104.023951,26.266729,0
+            -104.31137,26.575106,0
+            -104.449092,26.712828,0
+            -104.958065,27.102042,0
+            -105.260454,27.491256,0
+            -105.473025,27.754725,0
+            -105.607753,27.883465,0
+            -105.748469,28.009211,0
+            -105.80236,28.075078,0
+            -106.029901,28.482256,0
+            -105.984992,28.597909,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Poliducto Santa Catarina-Gómez Palacio<br>servicio: Poliducto<br>longitud: 321.300000000000011<br>capacidad_: 32000.000000000000000<br>capacida_1: 31000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Santa Catarina-Gómez Palacio</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>321.300000000000011</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>32000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>31000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.48557,25.704781,0
+            -100.989094,25.752808,0
+            -101.292484,25.756127,0
+            -102.279038,25.766921,0
+            -102.279832,25.767233,0
+            -102.873389,25.793288,0
+            -102.973326,25.794716,0
+            -103.014729,25.787577,0
+            -103.071836,25.775085,0
+            -103.122875,25.763307,0
+            -103.173201,25.745461,0
+            -103.227885,25.718119,0
+            -103.302223,25.68508,0
+            -103.46821,25.562891,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Poliducto Santa Catarina-Gómez Palacio<br>servicio: Poliducto<br>longitud: 319.600000000000023<br>capacidad_: 58000.000000000000000<br>capacida_1: 57000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Santa Catarina-Gómez Palacio</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>319.600000000000023</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>58000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>57000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.48557,25.704781,0
+            -100.521443,25.701511,0
+            -100.983978,25.744033,0
+            -101.40657,25.748792,0
+            -101.9824,25.754503,0
+            -102.232473,25.75816,0
+            -102.97059,25.788172,0
+            -103.116629,25.758132,0
+            -103.166598,25.740583,0
+            -103.224002,25.712029,0
+            -103.296576,25.679609,0
+            -103.40038,25.606143,0
+            -103.447973,25.573337,0
+            -103.46821,25.562891,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Ramal Ojo Caliente-Saltillo<br>servicio: Poliducto<br>longitud: 24.899999999999999<br>capacidad_: 26000.000000000000000<br>capacida_1: 26000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Ojo Caliente-Saltillo</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>24.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>26000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>26000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.017265,25.753116,0
+            -100.971387,25.489165,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Poliducto Santa Catarina-Monclova-Sabinas<br>servicio: Poliducto<br>longitud: 323.600000000000023<br>capacidad_: 20000.000000000000000<br>capacida_1: 19000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Santa Catarina-Monclova-Sabinas</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>323.600000000000023</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>20000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>19000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.48557,25.704781,0
+            -101.163757,26.980599,0
+            -101.134287,27.831989,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Noreste<br>ducto: Interconexión Monclova<br>servicio: Poliducto<br>longitud: 0.000000000000000<br>capacidad_: 20000.000000000000000<br>capacida_1: 19000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Noreste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Interconexión Monclova</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>20000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>19000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.163757,26.980599,0
+            -101.425841,26.958118,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Turbosino-ducto Tula-Azcapotzalco<br>servicio: Turbosino-ducto<br>longitud: 75.099999999999994<br>capacidad_: 51000.000000000000000<br>capacida_1: 50000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Turbosino-ducto Tula-Azcapotzalco</value>
+          </Data>
+          <Data name="servicio">
+            <value>Turbosino-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>75.099999999999994</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>51000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>50000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.35,20.05,0
+            -99.203818,19.466069,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Tula-Azcapotzalco<br>servicio: Poliducto<br>longitud: 81.799999999999997<br>capacidad_: 103000.000000000000000<br>capacida_1: 98000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tula-Azcapotzalco</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>81.799999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>103000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>98000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.35,20.05,0
+            -99.348027,20.005225,0
+            -99.229029,19.511757,0
+            -99.203818,19.466069,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Ramal San Juan Ixhuatepec<br>servicio: Poliducto<br>longitud: 0.700000000000000<br>capacidad_: 62000.000000000000000<br>capacida_1: 62000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal San Juan Ixhuatepec</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.700000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>62000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>62000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.233332,19.529599,0
+            -99.114164,19.52856,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Tula-Toluca<br>servicio: Poliducto<br>longitud: 222.699999999999989<br>capacidad_: 50000.000000000000000<br>capacida_1: 47000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tula-Toluca</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>222.699999999999989</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>50000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>47000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.35,20.05,0
+            -99.355085,20.046916,0
+            -99.394981,20.009836,0
+            -99.406403,19.992704,0
+            -99.415683,19.976286,0
+            -99.423535,19.949874,0
+            -99.427818,19.928458,0
+            -99.431387,19.916323,0
+            -99.433529,19.896336,0
+            -99.43567,19.884914,0
+            -99.439239,19.871351,0
+            -99.443522,19.858502,0
+            -99.450661,19.85065,0
+            -99.46351,19.838515,0
+            -99.477787,19.827807,0
+            -99.48778,19.817813,0
+            -99.491349,19.809247,0
+            -99.495632,19.797112,0
+            -99.495632,19.782122,0
+            -99.496786,19.761641,0
+            -99.496346,19.760706,0
+            -99.493491,19.737864,0
+            -99.494919,19.713593,0
+            -99.504912,19.675046,0
+            -99.509195,19.650775,0
+            -99.529183,19.612228,0
+            -99.536321,19.595096,0
+            -99.542032,19.546555,0
+            -99.566302,19.405215,0
+            -99.567459,19.395634,0
+            -99.602893,19.289007,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Tula-Pachuca<br>servicio: Poliducto<br>longitud: 66.659999999999997<br>capacidad_: 24000.000000000000000<br>capacida_1: 24000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tula-Pachuca</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>66.659999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>24000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.35,20.05,0
+            -99.343211,20.050371,0
+            -99.325452,20.05747,0
+            -99.306743,20.064677,0
+            -99.286765,20.071405,0
+            -99.273613,20.075012,0
+            -99.254132,20.07791,0
+            -99.231106,20.079615,0
+            -99.216685,20.081786,0
+            -99.20024,20.084913,0
+            -99.195182,20.087788,0
+            -99.188103,20.093773,0
+            -99.183049,20.100712,0
+            -99.178754,20.106933,0
+            -99.170916,20.114831,0
+            -99.157005,20.125364,0
+            -99.145112,20.129916,0
+            -99.104105,20.133771,0
+            -99.070423,20.133033,0
+            -99.024618,20.128868,0
+            -98.955019,20.127679,0
+            -98.916353,20.135412,0
+            -98.878281,20.138981,0
+            -98.842589,20.141361,0
+            -98.8182,20.137197,0
+            -98.783698,20.123515,0
+            -98.751497,20.101096,0
+            -98.747281,20.097104,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Azcapotzalco-Barranca del Muerto<br>servicio: Poliducto<br>longitud: 20.800000000000001<br>capacidad_: 21000.000000000000000<br>capacida_1: 16000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Azcapotzalco-Barranca del Muerto</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>20.800000000000001</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>21000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>16000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.214328,19.3657,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Azcapotzalco-Barranca del Muerto<br>servicio: Poliducto<br>longitud: 20.699999999999999<br>capacidad_: 62000.000000000000000<br>capacida_1: 53000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Azcapotzalco-Barranca del Muerto</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>20.699999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>62000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>53000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.207122,19.455375,0
+            -99.21545,19.379232,0
+            -99.214328,19.3657,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto CPI-México<br>servicio: Poliducto<br>longitud: 119.000000000000000<br>capacidad_: 55000.000000000000000<br>capacida_1: 45000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto CPI-México</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>119.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>55000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>45000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.410802,19.255917,0
+            -98.408431,19.257009,0
+            -98.405509,19.257478,0
+            -98.401928,19.25914,0
+            -98.398798,19.26133,0
+            -98.397596,19.262452,0
+            -98.39695,19.264199,0
+            -98.396542,19.265536,0
+            -98.396536,19.267162,0
+            -98.397332,19.269747,0
+            -98.398231,19.271854,0
+            -98.399532,19.274058,0
+            -98.400937,19.275498,0
+            -98.406655,19.281829,0
+            -98.409557,19.287194,0
+            -98.411147,19.293225,0
+            -98.412138,19.297819,0
+            -98.410791,19.308144,0
+            -98.410773,19.313117,0
+            -98.410861,19.316656,0
+            -98.411552,19.320579,0
+            -98.412946,19.32527,0
+            -98.414946,19.329389,0
+            -98.416714,19.332448,0
+            -98.425148,19.349747,0
+            -98.449619,19.376572,0
+            -98.475982,19.405044,0
+            -98.491992,19.422574,0
+            -98.528874,19.469149,0
+            -98.55682,19.505534,0
+            -98.57252,19.528137,0
+            -98.589659,19.544465,0
+            -98.603507,19.55421,0
+            -98.62745,19.56248,0
+            -98.673169,19.562419,0
+            -98.709299,19.547238,0
+            -98.757597,19.506362,0
+            -98.781724,19.495633,0
+            -98.946419,19.447785,0
+            -99.050703,19.416851,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Azcapotzalco-San Juan Ixhuatepec<br>servicio: Poliducto<br>longitud: 15.100000000000000<br>capacidad_: 72000.000000000000000<br>capacida_1: 63000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Azcapotzalco-San Juan Ixhuatepec</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>15.100000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>72000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>63000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.114164,19.52856,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Ramal San Juan Ixhuatepec-Añil<br>servicio: Poliducto<br>longitud: 17.000000000000000<br>capacidad_: 62000.000000000000000<br>capacida_1: 62000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal San Juan Ixhuatepec-Añil</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>17.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>62000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>62000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.114164,19.52856,0
+            -99.103279,19.521052,0
+            -99.097387,19.517951,0
+            -99.089945,19.512059,0
+            -99.060797,19.499656,0
+            -99.042812,19.492524,0
+            -99.03506,19.486632,0
+            -99.03413,19.483221,0
+            -99.03475,19.47888,0
+            -99.03723,19.473298,0
+            -99.040331,19.464306,0
+            -99.041262,19.457174,0
+            -99.044673,19.450972,0
+            -99.046843,19.441049,0
+            -99.048394,19.435778,0
+            -99.052425,19.430196,0
+            -99.056146,19.428336,0
+            -99.062968,19.426785,0
+            -99.069479,19.426785,0
+            -99.082503,19.421204,0
+            -99.091185,19.415002,0
+            -99.104038,19.404615,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Azcapotzalco-Añil<br>servicio: Poliducto<br>longitud: 30.899999999999999<br>capacidad_: 65000.000000000000000<br>capacida_1: 63000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Azcapotzalco-Añil</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>30.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>65000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>63000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.194754,19.462445,0
+            -99.109791,19.410971,0
+            -99.104038,19.404615,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Azcapotzalco-Añil<br>servicio: Poliducto<br>longitud: 30.899999999999999<br>capacidad_: 29000.000000000000000<br>capacida_1: 29000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Azcapotzalco-Añil</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>30.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>29000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>29000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.104038,19.404615,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Añil-Cuernavaca<br>servicio: Poliducto<br>longitud: 70.000000000000000<br>capacidad_: 23000.000000000000000<br>capacida_1: 22000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Añil-Cuernavaca</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>70.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>23000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>22000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.104038,19.404615,0
+            -99.114475,19.347104,0
+            -99.125468,19.232256,0
+            -99.124865,19.227884,0
+            -99.125619,19.220346,0
+            -99.126373,19.216124,0
+            -99.128182,19.210848,0
+            -99.129539,19.206174,0
+            -99.131951,19.200747,0
+            -99.133609,19.19743,0
+            -99.136926,19.192153,0
+            -99.140243,19.187932,0
+            -99.147932,19.170443,0
+            -99.149892,19.163508,0
+            -99.152455,19.157327,0
+            -99.155922,19.149035,0
+            -99.159691,19.142552,0
+            -99.164817,19.135316,0
+            -99.170395,19.13019,0
+            -99.174315,19.124913,0
+            -99.178989,19.116923,0
+            -99.182004,19.111646,0
+            -99.185773,19.106972,0
+            -99.190296,19.104862,0
+            -99.194517,19.103052,0
+            -99.199342,19.100188,0
+            -99.205372,19.095816,0
+            -99.210498,19.091595,0
+            -99.213966,19.086921,0
+            -99.216378,19.08481,0
+            -99.222559,19.082398,0
+            -99.225876,19.081343,0
+            -99.229042,19.079684,0
+            -99.230399,19.076971,0
+            -99.23251,19.072749,0
+            -99.234922,19.067472,0
+            -99.235826,19.058276,0
+            -99.23462,19.049984,0
+            -99.231756,19.043954,0
+            -99.227082,19.038978,0
+            -99.223162,19.035059,0
+            -99.216076,19.033551,0
+            -99.210046,19.0334,0
+            -99.206428,19.032948,0
+            -99.202055,19.031742,0
+            -99.198286,19.030234,0
+            -99.195723,19.02933,0
+            -99.194668,19.028877,0
+            -99.191201,19.028726,0
+            -99.187281,19.028877,0
+            -99.18517,19.029179,0
+            -99.179893,19.02933,0
+            -99.170848,19.02752,0
+            -99.168134,19.026013,0
+            -99.166023,19.024957,0
+            -99.163762,19.023601,0
+            -99.161802,19.021188,0
+            -99.161199,19.018927,0
+            -99.160897,19.016967,0
+            -99.16135,19.015007,0
+            -99.163309,19.013047,0
+            -99.168435,19.010937,0
+            -99.172958,19.009278,0
+            -99.177029,19.007921,0
+            -99.180798,19.005961,0
+            -99.182607,19.0037,0
+            -99.183813,19.001288,0
+            -99.184718,18.998122,0
+            -99.18517,18.994202,0
+            -99.183964,18.989076,0
+            -99.182456,18.985307,0
+            -99.179743,18.976713,0
+            -99.178687,18.96812,0
+            -99.178536,18.957265,0
+            -99.180195,18.947616,0
+            -99.182306,18.941586,0
+            -99.18517,18.937364,0
+            -99.190752,18.926787,0
+            -99.191842,18.920782,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Turbosino-ducto Azcapotzalco ASA<br>servicio: Turbosino-ducto<br>longitud: 27.899999999999999<br>capacidad_: 29000.000000000000000<br>capacida_1: 28000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Turbosino-ducto Azcapotzalco ASA</value>
+          </Data>
+          <Data name="servicio">
+            <value>Turbosino-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>27.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>29000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>28000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.203818,19.466069,0
+            -99.074143,19.439917,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Bidireccional Salamanca-Tula<br>servicio: Poliducto<br>longitud: 240.099999999999994<br>capacidad_: 38000.000000000000000<br>capacida_1: 38000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Salamanca-Tula</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>240.099999999999994</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>38000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>38000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.35,20.05,0
+            -99.518993,20.093205,0
+            -99.739617,20.177914,0
+            -99.882385,20.262861,0
+            -99.998026,20.354232,0
+            -100.082259,20.434896,0
+            -100.10653,20.45417,0
+            -100.135083,20.474871,0
+            -100.160068,20.483437,0
+            -100.196473,20.484865,0
+            -100.260719,20.480582,0
+            -100.489861,20.451314,0
+            -100.591581,20.43116,0
+            -100.796452,20.464711,0
+            -100.923515,20.493978,0
+            -100.9697105,20.5030359,0
+            -100.9849375,20.5110844,0
+            -100.9897102,20.5174567,0
+            -101.0028091,20.5217789,0
+            -101.0078822,20.5222212,0
+            -101.0138518,20.5216384,0
+            -101.0308929,20.5304603,0
+            -101.0521563,20.5365131,0
+            -101.0703413,20.5383723,0
+            -101.090499,20.5435248,0
+            -101.1786826,20.5767065,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Ramal Charco Blanco-TAR Querétaro<br>servicio: Poliducto<br>longitud: 24.199999999999999<br>capacidad_: 153600.000000000000000<br>capacida_1: 77000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Charco Blanco-TAR Querétaro</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>24.199999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>153600.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>77000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.465576,20.454416,0
+            -100.433115,20.620878,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Ramal Palo Seco-Celaya<br>servicio: Poliducto<br>longitud: 70.000000000000000<br>capacidad_: 23000.000000000000000<br>capacida_1: 22000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Palo Seco-Celaya</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>70.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>23000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>22000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.836991,20.474048,0
+            -100.853223,20.520963,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Querétaro-TAR San Luis Potosí<br>servicio: Poliducto<br>longitud: 204.199999999999989<br>capacidad_: 24000.000000000000000<br>capacida_1: 24000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Querétaro-TAR San Luis Potosí</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>204.199999999999989</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>24000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -100.433115,20.620878,0
+            -100.488211,20.636561,0
+            -100.531526,20.651719,0
+            -100.548756,20.660528,0
+            -100.567941,20.674097,0
+            -100.578906,20.690728,0
+            -100.589967,20.71632,0
+            -100.595448,20.75451,0
+            -100.604606,20.77952,0
+            -100.608658,20.802187,0
+            -100.60637,20.826109,0
+            -100.598355,20.849487,0
+            -100.579189,20.901051,0
+            -100.571229,20.930402,0
+            -100.554917,21.013605,0
+            -100.555283,21.048855,0
+            -100.557541,21.082294,0
+            -100.568814,21.12521,0
+            -100.624533,21.212515,0
+            -100.662134,21.270103,0
+            -100.710493,21.372978,0
+            -100.749445,21.483699,0
+            -100.772841,21.570677,0
+            -100.787639,21.631455,0
+            -100.89409,21.96454,0
+            -100.90859,22.031543,0
+            -100.910736,22.048244,0
+            -100.913524,22.064937,0
+            -100.918876,22.081601,0
+            -100.932642,22.104138,0
+            -100.954138,22.137427,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Poliducto Salamanca-Morelia<br>servicio: Poliducto<br>longitud: 90.700000000000003<br>capacidad_: 28000.000000000000000<br>capacida_1: 27000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Salamanca-Morelia</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>90.700000000000003</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>28000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>27000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.193674,20.518802,0
+            -101.194573,20.515635,0
+            -101.200991,20.467764,0
+            -101.202733,20.44767,0
+            -101.209503,20.424645,0
+            -101.214366,20.410246,0
+            -101.219243,20.396803,0
+            -101.222174,20.389119,0
+            -101.22809,20.377574,0
+            -101.231965,20.365099,0
+            -101.23688,20.354523,0
+            -101.242766,20.341066,0
+            -101.247666,20.329534,0
+            -101.252635,20.322779,0
+            -101.260531,20.308341,0
+            -101.273462,20.291925,0
+            -101.290328,20.267811,0
+            -101.293902,20.235268,0
+            -101.293663,20.219023,0
+            -101.293453,20.204689,0
+            -101.293327,20.196088,0
+            -101.296112,20.178848,0
+            -101.298896,20.161608,0
+            -101.306851,20.151946,0
+            -101.319836,20.140306,0
+            -101.340884,20.126647,0
+            -101.351827,20.114076,0
+            -101.354691,20.102569,0
+            -101.362181,20.062327,0
+            -101.362906,20.043203,0
+            -101.362435,20.011669,0
+            -101.361139,19.992571,0
+            -101.354747,19.970674,0
+            -101.349495,19.957363,0
+            -101.34628,19.94498,0
+            -101.33891,19.925006,0
+            -101.333676,19.91265,0
+            -101.325467,19.904155,0
+            -101.31124,19.898606,0
+            -101.289014,19.898893,0
+            -101.273859,19.899088,0
+            -101.251497,19.889814,0
+            -101.216962,19.876866,0
+            -101.196652,19.869471,0
+            -101.147551,19.844173,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Magna-ducto Salamanca-Irapuato<br>servicio: Magna-ducto<br>longitud: 19.000000000000000<br>capacidad_: 34000.000000000000000<br>capacida_1: 34000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Magna-ducto Salamanca-Irapuato</value>
+          </Data>
+          <Data name="servicio">
+            <value>Magna-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>19.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>34000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>34000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.257335,20.618097,0
+            -101.280041,20.630343,0
+            -101.297684,20.637212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Premium-ducto Salamanca-Irapuato<br>servicio: Premium-ducto<br>longitud: 19.000000000000000<br>capacidad_: 31000.000000000000000<br>capacida_1: 24000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Premium-ducto Salamanca-Irapuato</value>
+          </Data>
+          <Data name="servicio">
+            <value>Premium-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>19.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>31000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>24000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.202503,20.576846,0
+            -101.25623,20.619583,0
+            -101.279194,20.631968,0
+            -101.290109,20.636217,0
+            -101.297684,20.637212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Turbosino-ducto Salamanca-Irapuato<br>servicio: Turbosino-ducto<br>longitud: 18.899999999999999<br>capacidad_: 29000.000000000000000<br>capacida_1: 28000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Turbosino-ducto Salamanca-Irapuato</value>
+          </Data>
+          <Data name="servicio">
+            <value>Turbosino-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>18.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>29000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>28000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.201103,20.578096,0
+            -101.255125,20.621068,0
+            -101.278347,20.633592,0
+            -101.289602,20.637974,0
+            -101.297684,20.637212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Combustóleo-ducto Salamanca-Irapuato<br>servicio: Combustóleo-ducto<br>longitud: 18.899999999999999<br>capacidad_: 35000.000000000000000<br>capacida_1: 32000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Combustóleo-ducto Salamanca-Irapuato</value>
+          </Data>
+          <Data name="servicio">
+            <value>Combustóleo-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>18.899999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>35000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>32000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.199543,20.57922,0
+            -101.254021,20.622554,0
+            -101.2775,20.635217,0
+            -101.289314,20.639816,0
+            -101.297684,20.637212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Poliducto Salamanca-León<br>servicio: Poliducto<br>longitud: 94.299999999999997<br>capacidad_: 24000.000000000000000<br>capacida_1: 23000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Salamanca-León</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>94.299999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>23000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.1786826,20.5767065,0
+            -101.1795389,20.5863079,0
+            -101.1815959,20.5898026,0
+            -101.1856911,20.5932592,0
+            -101.249869,20.624879,0
+            -101.262179,20.637324,0
+            -101.27471,20.649511,0
+            -101.285256,20.65585,0
+            -101.29049,20.660421,0
+            -101.292112,20.663986,0
+            -101.293115,20.667547,0
+            -101.294182,20.671337,0
+            -101.29481,20.677168,0
+            -101.315231,20.703586,0
+            -101.335404,20.729671,0
+            -101.339627,20.738505,0
+            -101.345229,20.7449,0
+            -101.350099,20.747108,0
+            -101.354932,20.750092,0
+            -101.358084,20.752038,0
+            -101.366555,20.75546,0
+            -101.376999,20.759677,0
+            -101.391444,20.765618,0
+            -101.419433,20.788648,0
+            -101.423757,20.794296,0
+            -101.444825,20.821808,0
+            -101.449151,20.83054,0
+            -101.453758,20.84567,0
+            -101.481858,20.884234,0
+            -101.485419,20.894519,0
+            -101.490594,20.909459,0
+            -101.502288,20.938727,0
+            -101.505311,20.945877,0
+            -101.522417,20.966067,0
+            -101.530018,20.975037,0
+            -101.553615,20.992401,0
+            -101.580406,21.012095,0
+            -101.612265,21.023264,0
+            -101.622234,21.033115,0
+            -101.626811,21.037637,0
+            -101.654529,21.05824,0
+            -101.663981,21.062961,0
+            -101.712606,21.09907,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Diésel-ducto Salamanca-Irapuato<br>servicio: Diésel-ducto<br>longitud: 19.000000000000000<br>capacidad_: 30000.000000000000000<br>capacida_1: 29000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Diésel-ducto Salamanca-Irapuato</value>
+          </Data>
+          <Data name="servicio">
+            <value>Diésel-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>19.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>30000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>29000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.210071,20.578503,0
+            -101.233578,20.596743,0
+            -101.258543,20.617063,0
+            -101.280545,20.628912,0
+            -101.297684,20.637212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Poliducto Salamanca-Aguascalientes-Zacatecas<br>servicio: Poliducto<br>longitud: 319.899999999999977<br>capacidad_: 28000.000000000000000<br>capacida_1: 27000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Salamanca-Aguascalientes-Zacatecas</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>319.899999999999977</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>28000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>27000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.1786826,20.5767065,0
+            -101.1802594,20.5820957,0
+            -101.1808054,20.5858777,0
+            -101.1822406,20.5889423,0
+            -101.1874411,20.5927811,0
+            -101.2107528,20.6041728,0
+            -101.2500014,20.6234173,0
+            -101.26357,20.63608,0
+            -101.275933,20.648103,0
+            -101.286434,20.654416,0
+            -101.292093,20.659358,0
+            -101.293931,20.663396,0
+            -101.29497,20.667084,0
+            -101.296076,20.671013,0
+            -101.296667,20.6765,0
+            -101.316783,20.702524,0
+            -101.337073,20.72876,0
+            -101.341272,20.737543,0
+            -101.346442,20.743446,0
+            -101.351047,20.745533,0
+            -101.358996,20.750442,0
+            -101.367312,20.7538,0
+            -101.377762,20.75802,0
+            -101.392485,20.764075,0
+            -101.420863,20.787425,0
+            -101.44649,20.820891,0
+            -101.450955,20.829906,0
+            -101.455519,20.844892,0
+            -101.483599,20.883428,0
+            -101.492408,20.908862,0
+            -101.504081,20.938076,0
+            -101.506993,20.944962,0
+            -101.531382,20.973746,0
+            -101.5548,20.990979,0
+            -101.581357,21.010502,0
+            -101.613353,21.021718,0
+            -101.628111,21.036301,0
+            -101.655587,21.056723,0
+            -101.67509,21.066462,0
+            -101.700384,21.072033,0
+            -101.718544,21.076998,0
+            -101.737889,21.077165,0
+            -101.750943,21.081253,0
+            -101.766065,21.086979,0
+            -101.78124,21.095568,0
+            -101.805169,21.11267,0
+            -101.867227,21.162982,0
+            -101.912589,21.204002,0
+            -101.946422,21.240433,0
+            -101.971092,21.263882,0
+            -102.01365,21.289396,0
+            -102.052351,21.312579,0
+            -102.076195,21.320363,0
+            -102.14806,21.381866,0
+            -102.169166,21.411902,0
+            -102.232956,21.47157,0
+            -102.264193,21.499615,0
+            -102.283333,21.556543,0
+            -102.289892,21.620879,0
+            -102.28212,21.672367,0
+            -102.268752,21.705328,0
+            -102.264578,21.712812,0
+            -102.262876,21.716666,0
+            -102.261228,21.722906,0
+            -102.254467,21.751691,0
+            -102.253346,21.758638,0
+            -102.251582,21.771088,0
+            -102.249008,21.781645,0
+            -102.245662,21.791977,0
+            -102.240265,21.802112,0
+            -102.233547,21.810362,0
+            -102.217772,21.825235,0
+            -102.205044,21.839332,0
+            -102.1964,21.85311,0
+            -102.188796,21.876642,0
+            -102.188728,21.902149,0
+            -102.196161,21.925643,0
+            -102.206571,21.944781,0
+            -102.217751,21.963902,0
+            -102.228507,21.998073,0
+            -102.231889,22.028762,0
+            -102.234236,22.047384,0
+            -102.231242,22.118356,0
+            -102.23412,22.143369,0
+            -102.236115,22.163386,0
+            -102.24994,22.196059,0
+            -102.258844,22.21522,0
+            -102.268535,22.235081,0
+            -102.276609,22.251392,0
+            -102.284901,22.27701,0
+            -102.288464,22.297709,0
+            -102.286911,22.329971,0
+            -102.288488,22.364319,0
+            -102.294348,22.384255,0
+            -102.310592,22.419734,0
+            -102.330851,22.461574,0
+            -102.342954,22.484242,0
+            -102.347817,22.494168,0
+            -102.352802,22.509105,0
+            -102.35945,22.529019,0
+            -102.371531,22.550252,0
+            -102.387784,22.584287,0
+            -102.412492,22.616707,0
+            -102.423534,22.626498,0
+            -102.433178,22.642047,0
+            -102.442321,22.668348,0
+            -102.442661,22.681947,0
+            -102.443324,22.708431,0
+            -102.437801,22.749747,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Ramal León<br>servicio: Poliducto<br>longitud: 0.000000000000000<br>capacidad_: 18000.000000000000000<br>capacida_1: 18000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal León</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>18000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>18000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.744422,21.079211,0
+            -101.712606,21.09907,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Ramal Aguascalientes<br>servicio: Poliducto<br>longitud: 0.400000000000000<br>capacidad_: 28000.000000000000000<br>capacida_1: 27000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Aguascalientes</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.400000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>28000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>27000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -102.253847,21.755534,0
+            -102.223451,21.757607,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Poliducto Salamanca-Guadalajara<br>servicio: Poliducto<br>longitud: 345.000000000000000<br>capacidad_: 85000.000000000000000<br>capacida_1: 80000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Salamanca-Guadalajara</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>345.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>85000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>80000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -101.197222,20.570278,0
+            -101.274461,20.534022,0
+            -101.298276,20.523672,0
+            -101.325848,20.510402,0
+            -101.363561,20.489106,0
+            -101.367673,20.48439,0
+            -101.374093,20.481436,0
+            -101.383125,20.475219,0
+            -101.388789,20.472633,0
+            -101.399732,20.467106,0
+            -101.416427,20.464725,0
+            -101.438041,20.460839,0
+            -101.449055,20.459967,0
+            -101.464205,20.456169,0
+            -101.475915,20.451344,0
+            -101.492531,20.444298,0
+            -101.535991,20.42826,0
+            -101.5643,20.41602,0
+            -101.629611,20.389603,0
+            -101.666361,20.382953,0
+            -101.754144,20.383022,0
+            -101.775037,20.38269,0
+            -101.803109,20.380092,0
+            -101.849007,20.375765,0
+            -101.884038,20.379846,0
+            -101.92432,20.38025,0
+            -101.959305,20.381809,0
+            -101.983316,20.385699,0
+            -102.008951,20.394931,0
+            -102.032289,20.403124,0
+            -102.058253,20.409477,0
+            -102.085666,20.412217,0
+            -102.125687,20.41831,0
+            -102.189216,20.421814,0
+            -102.235942,20.421309,0
+            -102.266706,20.420734,0
+            -102.308461,20.418871,0
+            -102.333061,20.414462,0
+            -102.360357,20.411788,0
+            -102.398964,20.405308,0
+            -102.418258,20.401707,0
+            -102.439933,20.402712,0
+            -102.455136,20.403128,0
+            -102.475283,20.403801,0
+            -102.485147,20.403246,0
+            -102.496892,20.401936,0
+            -102.526755,20.395604,0
+            -102.549839,20.391912,0
+            -102.584325,20.388699,0
+            -102.612086,20.390274,0
+            -102.644232,20.400705,0
+            -102.677056,20.407534,0
+            -102.701926,20.415242,0
+            -102.728335,20.423629,0
+            -102.757264,20.426229,0
+            -102.801104,20.432795,0
+            -102.878042,20.441478,0
+            -102.910371,20.443259,0
+            -102.936969,20.443733,0
+            -102.96428,20.442396,0
+            -103.001096,20.441552,0
+            -103.027692,20.442011,0
+            -103.037578,20.442498,0
+            -103.051771,20.447894,0
+            -103.060177,20.449846,0
+            -103.070823,20.450312,0
+            -103.079979,20.451887,0
+            -103.088737,20.452755,0
+            -103.094439,20.452979,0
+            -103.111527,20.452933,0
+            -103.12518,20.452251,0
+            -103.135028,20.451301,0
+            -103.152447,20.449454,0
+            -103.177891,20.44956,0
+            -103.195824,20.452706,0
+            -103.228101,20.466597,0
+            -103.24955,20.47323,0
+            -103.273168,20.475871,0
+            -103.298264,20.47704,0
+            -103.330919,20.476944,0
+            -103.351679,20.472488,0
+            -103.394056,20.453886,0
+            -103.40634,20.445345,0
+            -103.421689,20.437799,0
+            -103.437774,20.429517,0
+            -103.44907,20.426366,0
+            -103.449202,20.426366,0
+            -103.490292,20.43425,0
+            -103.523203,20.443414,0
+            -103.562481,20.462422,0
+            -103.578057,20.475606,0
+            -103.583772,20.48905,0
+            -103.582723,20.504819,0
+            -103.574085,20.520788,0
+            -103.570482,20.527323,0
+            -103.559353,20.536203,0
+            -103.541454,20.547406,0
+            -103.528845,20.557755,0
+            -103.520094,20.570148,0
+            -103.513746,20.586772,0
+            -103.511763,20.596842,0
+            -103.508324,20.609096,0
+            -103.503303,20.619245,0
+            -103.493112,20.634538,0
+            -103.48908,20.652532,0
+            -103.485724,20.667647,0
+            -103.461238,20.711198,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Ramal TAR El Castillo<br>servicio: Poliducto<br>longitud: 0.100000000000000<br>capacidad_: 85000.000000000000000<br>capacida_1: 80000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal TAR El Castillo</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.100000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>85000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>80000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -103.233025,20.46774,0
+            -103.226585,20.505508,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Occidente<br>ducto: Ramal Degollado-Zamora<br>servicio: Poliducto<br>longitud: 44.500000000000000<br>capacidad_: 26000.000000000000000<br>capacida_1: 24000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Occidente</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Degollado-Zamora</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>44.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>26000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>24000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -102.20501,20.421645,0
+            -102.269064,20.087599,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Combustóleo-ducto Ref. Salina Cruz-TM Salina Cruz L1<br>servicio: Combustóleo-ducto<br>longitud: 12.500000000000000<br>capacidad_: 96000.000000000000000<br>capacida_1: 87000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Combustóleo-ducto Ref. Salina Cruz-TM Salina Cruz L1</value>
+          </Data>
+          <Data name="servicio">
+            <value>Combustóleo-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>12.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>96000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>87000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.1652,16.204598,0
+            -95.171481,16.185325,0
+            -95.185687,16.171119,0
+            -95.192183,16.169835,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Combustóleo-ducto Ref. Salina Cruz-TM Salina Cruz L2<br>servicio: Combustóleo-ducto<br>longitud: 12.500000000000000<br>capacidad_: 84000.000000000000000<br>capacida_1: 83000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Combustóleo-ducto Ref. Salina Cruz-TM Salina Cruz L2</value>
+          </Data>
+          <Data name="servicio">
+            <value>Combustóleo-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>12.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>84000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>83000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.16559,16.204673,0
+            -95.1718,16.185828,0
+            -95.185872,16.171509,0
+            -95.192202,16.170343,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Bidireccional Minatitlán-Salina Cruz<br>servicio: Poliducto<br>longitud: 249.400000000000006<br>capacidad_: 73000.000000000000000<br>capacida_1: 73000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Minatitlán-Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>249.400000000000006</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>73000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>73000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.532804,17.978192,0
+            -94.545915,17.97087,0
+            -94.550507,17.966681,0
+            -94.552163,17.960278,0
+            -94.552315,17.954198,0
+            -94.551756,17.946671,0
+            -94.55189,17.941306,0
+            -94.553208,17.933464,0
+            -94.555593,17.927793,0
+            -94.560317,17.918239,0
+            -94.56344,17.912943,0
+            -94.567318,17.907306,0
+            -94.572762,17.898841,0
+            -94.576275,17.892838,0
+            -94.58298,17.878676,0
+            -94.586099,17.858349,0
+            -94.586878,17.841905,0
+            -94.588405,17.825478,0
+            -94.592197,17.808029,0
+            -94.600086,17.79103,0
+            -94.610578,17.774446,0
+            -94.63593,17.730278,0
+            -94.653948,17.710995,0
+            -94.672673,17.693157,0
+            -94.683328,17.684802,0
+            -94.693668,17.673934,0
+            -94.705237,17.658439,0
+            -94.717838,17.630797,0
+            -94.721127,17.617983,0
+            -94.721795,17.605471,0
+            -94.722057,17.594381,0
+            -94.719775,17.580373,0
+            -94.713127,17.561617,0
+            -94.70715,17.546098,0
+            -94.705979,17.532472,0
+            -94.708427,17.523577,0
+            -94.720523,17.500932,0
+            -94.732779,17.487238,0
+            -94.7505,17.479028,0
+            -94.763639,17.475372,0
+            -94.779113,17.467469,0
+            -94.792657,17.462387,0
+            -94.802472,17.457226,0
+            -94.814556,17.450679,0
+            -94.822199,17.442607,0
+            -94.830319,17.429891,0
+            -94.832735,17.422067,0
+            -94.851027,17.374362,0
+            -94.864519,17.326913,0
+            -94.875333,17.287759,0
+            -94.884266,17.221119,0
+            -94.896541,17.171252,0
+            -94.915989,17.133461,0
+            -94.92672,17.096684,0
+            -94.940234,17.045642,0
+            -94.935298,16.987069,0
+            -94.933847,16.939306,0
+            -94.958667,16.88013,0
+            -94.971968,16.83743,0
+            -94.983921,16.799475,0
+            -94.985888,16.764904,0
+            -94.99724,16.695906,0
+            -95.001106,16.629147,0
+            -95.044624,16.498696,0
+            -95.168475,16.214078,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Combustóleo-ducto Ref. Minatitlán-TM Pajaritos<br>servicio: Combustóleo-ducto<br>longitud: 33.000000000000000<br>capacidad_: 72000.000000000000000<br>capacida_1: 72000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Combustóleo-ducto Ref. Minatitlán-TM Pajaritos</value>
+          </Data>
+          <Data name="servicio">
+            <value>Combustóleo-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>33.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>72000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>72000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.532804,17.978192,0
+            -94.52512,17.986136,0
+            -94.521174,17.9899,0
+            -94.517152,17.993194,0
+            -94.513808,17.995311,0
+            -94.51132,17.997066,0
+            -94.507444,18.000459,0
+            -94.504733,18.003163,0
+            -94.501641,18.007099,0
+            -94.498856,18.010756,0
+            -94.494396,18.015518,0
+            -94.490555,18.019484,0
+            -94.479751,18.030538,0
+            -94.473015,18.038491,0
+            -94.460836,18.052545,0
+            -94.46038,18.053017,0
+            -94.454452,18.058292,0
+            -94.450191,18.061054,0
+            -94.449344,18.061453,0
+            -94.446999,18.062996,0
+            -94.441146,18.066579,0
+            -94.430956,18.072921,0
+            -94.421716,18.080144,0
+            -94.416226,18.086954,0
+            -94.40837,18.101293,0
+            -94.401742,18.11352,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Bidireccional Minatitlán-Pajaritos<br>servicio: Poliducto<br>longitud: 24.399999999999999<br>capacidad_: 41000.000000000000000<br>capacida_1: 41000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Bidireccional Minatitlán-Pajaritos</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>24.399999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>41000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>41000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.533173,17.978726,0
+            -94.528052,17.984234,0
+            -94.52718,17.985029,0
+            -94.521609,17.990435,0
+            -94.517785,17.993781,0
+            -94.515305,17.99525,0
+            -94.512106,17.997514,0
+            -94.508129,18.001,0
+            -94.505317,18.003749,0
+            -94.49831,18.012604,0
+            -94.494464,18.01676,0
+            -94.486067,18.025342,0
+            -94.480538,18.030986,0
+            -94.474055,18.038754,0
+            -94.465983,18.048201,0
+            -94.462254,18.05254,0
+            -94.455536,18.058785,0
+            -94.447725,18.063848,0
+            -94.435608,18.071433,0
+            -94.431656,18.07382,0
+            -94.422079,18.081512,0
+            -94.416767,18.088207,0
+            -94.402824,18.114065,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Minatitlán-México<br>servicio: Poliducto<br>longitud: 596.899999999999977<br>capacidad_: 75000.000000000000000<br>capacida_1: 66000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Minatitlán-México</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>596.899999999999977</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>75000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>66000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.532804,17.978192,0
+            -94.58713,17.993764,0
+            -94.603776,17.987645,0
+            -94.622817,17.973762,0
+            -94.640552,17.962232,0
+            -94.670945,17.942634,0
+            -94.694902,17.931237,0
+            -94.735049,17.920193,0
+            -94.779977,17.917595,0
+            -94.814885,17.917158,0
+            -94.867484,17.906352,0
+            -94.922381,17.903932,0
+            -94.954772,17.904609,0
+            -94.989442,17.914874,0
+            -95.042756,17.927902,0
+            -95.139444,17.95372,0
+            -95.195308,17.965566,0
+            -95.516372,18.130397,0
+            -95.647032,18.219885,0
+            -95.689003,18.246886,0
+            -95.860845,18.351294,0
+            -95.97081,18.428319,0
+            -96.155109,18.558983,0
+            -96.3672,18.694669,0
+            -96.447881,18.748352,0
+            -96.481521,18.763145,0
+            -96.546503,18.779541,0
+            -96.646589,18.798752,0
+            -96.744098,18.825049,0
+            -96.834145,18.848822,0
+            -96.888092,18.850636,0
+            -96.934482,18.854742,0
+            -96.973116,18.877872,0
+            -96.991816,18.88883,0
+            -97.013128,18.89145,0
+            -97.035725,18.89169,0
+            -97.086131,18.875484,0
+            -97.124056,18.851968,0
+            -97.148022,18.841452,0
+            -97.173266,18.828555,0
+            -97.200928,18.824043,0
+            -97.237286,18.827976,0
+            -97.273731,18.823536,0
+            -97.342713,18.828943,0
+            -97.415478,18.833162,0
+            -97.469561,18.821661,0
+            -97.493441,18.81827,0
+            -97.512226,18.823202,0
+            -97.557189,18.849852,0
+            -97.640888,18.901882,0
+            -97.727281,18.937161,0
+            -97.925185,19.028072,0
+            -98.042906,19.104034,0
+            -98.047407,19.107305,0
+            -98.086927,19.124396,0
+            -98.108386,19.133467,0
+            -98.133243,19.142552,0
+            -98.155841,19.151265,0
+            -98.172043,19.15636,0
+            -98.192418,19.157526,0
+            -98.21167,19.156534,0
+            -98.232799,19.157699,0
+            -98.257687,19.162464,0
+            -98.26711,19.165371,0
+            -98.279162,19.171157,0
+            -98.288571,19.17765,0
+            -98.294586,19.183412,0
+            -98.302866,19.189182,0
+            -98.313414,19.194243,0
+            -98.325844,19.201103,0
+            -98.337132,19.210469,0
+            -98.350675,19.222712,0
+            -98.368382,19.232817,0
+            -98.378931,19.23895,0
+            -98.38532,19.247221,0
+            -98.390575,19.255846,0
+            -98.394488,19.262517,0
+            -98.396728,19.269602,0
+            -98.397677,19.2719,0
+            -98.398978,19.274056,0
+            -98.401035,19.276311,0
+            -98.406151,19.281923,0
+            -98.409053,19.28724,0
+            -98.409748,19.28992,0
+            -98.411583,19.298008,0
+            -98.410339,19.307807,0
+            -98.40996,19.315123,0
+            -98.410646,19.320385,0
+            -98.412437,19.326703,0
+            -98.423684,19.350451,0
+            -98.492151,19.42503,0
+            -98.56122,19.513679,0
+            -98.571265,19.529245,0
+            -98.587618,19.544825,0
+            -98.602724,19.555618,0
+            -98.626667,19.564038,0
+            -98.643063,19.564071,0
+            -98.673332,19.564128,0
+            -98.709935,19.548649,0
+            -98.73393,19.528362,0
+            -98.757918,19.508071,0
+            -98.781888,19.497342,0
+            -99.051657,19.41856,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Minatitlán-Pajaritos<br>servicio: Poliducto<br>longitud: 27.500000000000000<br>capacidad_: 73000.000000000000000<br>capacida_1: 73000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Minatitlán-Pajaritos</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>27.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>73000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>73000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.529559,17.983653,0
+            -94.525367,17.987754,0
+            -94.521412,17.991987,0
+            -94.517861,17.994737,0
+            -94.512585,17.998289,0
+            -94.507488,18.002655,0
+            -94.504664,18.005881,0
+            -94.500488,18.011271,0
+            -94.498072,18.014125,0
+            -94.49064,18.022014,0
+            -94.481622,18.031488,0
+            -94.479458,18.034205,0
+            -94.467786,18.047909,0
+            -94.463526,18.052767,0
+            -94.456917,18.05939,0
+            -94.455239,18.060638,0
+            -94.432426,18.074888,0
+            -94.423,18.082536,0
+            -94.417794,18.088995,0
+            -94.408537,18.105423,0
+            -94.408123,18.107894,0
+            -94.408394,18.108998,0
+            -94.408912,18.110155,0
+            -94.409435,18.111169,0
+            -94.409863,18.111943,0
+            -94.409689,18.112893,0
+            -94.409234,18.113512,0
+            -94.407169,18.11579,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Centro<br>ducto: Poliducto Tula-Salamanca<br>servicio: Poliducto<br>longitud: 226.099999999999994<br>capacidad_: 87000.000000000000000<br>capacida_1: 87000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Centro</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tula-Salamanca</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>226.099999999999994</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>87000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>87000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.351001,20.046511,0
+            -99.520218,20.089774,0
+            -99.741372,20.174686,0
+            -99.884645,20.259933,0
+            -99.9114282,20.2863614,0
+            -99.9408811,20.3094846,0
+            -99.9980102,20.3545907,0
+            -100.0199809,20.3758563,0
+            -100.0433743,20.3980451,0
+            -100.0818512,20.4353366,0
+            -100.107787,20.4556263,0
+            -100.1349994,20.4752643,0
+            -100.1601344,20.4837094,0
+            -100.1967721,20.4852763,0
+            -100.2615286,20.4809249,0
+            -100.375249,20.4670299,0
+            -100.4908388,20.4518525,0
+            -100.5346119,20.4432119,0
+            -100.5812133,20.4338351,0
+            -100.5917735,20.4316954,0
+            -100.6431913,20.4402493,0
+            -100.6964219,20.4488196,0
+            -100.7960344,20.4652731,0
+            -100.8316667,20.4733591,0
+            -100.8679903,20.4816794,0
+            -100.9149816,20.4925182,0
+            -100.9250415,20.4947593,0
+            -100.9438567,20.4986072,0
+            -100.9694295,20.503769,0
+            -100.9844855,20.5135275,0
+            -100.9890423,20.518936,0
+            -100.9925715,20.5200026,0
+            -100.9996308,20.5224568,0
+            -101.0041368,20.5238279,0
+            -101.0090294,20.5239971,0
+            -101.0141912,20.5239448,0
+            -101.0317133,20.5327357,0
+            -101.0523405,20.5384203,0
+            -101.0712814,20.5401425,0
+            -101.0909707,20.5458346,0
+            -101.1451684,20.5661931,0
+            -101.1786826,20.5767065,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Minatitlán-Puebla<br>servicio: Poliducto<br>longitud: 438.300000000000011<br>capacidad_: 75000.000000000000000<br>capacida_1: 66000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Minatitlán-Puebla</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>438.300000000000011</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>75000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>66000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.533345,17.976465,0
+            -94.587055,17.991861,0
+            -94.602848,17.986054,0
+            -94.621716,17.972298,0
+            -94.639496,17.960739,0
+            -94.669995,17.941072,0
+            -94.694217,17.929549,0
+            -94.734728,17.918405,0
+            -94.779908,17.915793,0
+            -94.814673,17.915357,0
+            -94.867242,17.904557,0
+            -94.922358,17.902128,0
+            -94.955077,17.902811,0
+            -94.989954,17.913138,0
+            -95.043243,17.926159,0
+            -95.139902,17.951969,0
+            -95.195971,17.963859,0
+            -95.517372,18.128862,0
+            -95.648109,18.218403,0
+            -95.690038,18.245375,0
+            -95.861912,18.349803,0
+            -95.971934,18.426867,0
+            -96.156202,18.557508,0
+            -96.368271,18.693179,0
+            -96.448828,18.74678,0
+            -96.482166,18.761439,0
+            -96.546934,18.777782,0
+            -96.647035,18.796995,0
+            -96.74461,18.82331,0
+            -96.834436,18.847024,0
+            -96.888213,18.848833,0
+            -96.935109,18.852983,0
+            -96.974118,18.876338,0
+            -96.992464,18.887089,0
+            -97.013261,18.889644,0
+            -97.035424,18.88988,0
+            -97.085296,18.873846,0
+            -97.123136,18.850383,0
+            -97.147176,18.839834,0
+            -97.172642,18.826824,0
+            -97.200874,18.822219,0
+            -97.237272,18.826156,0
+            -97.273688,18.82172,0
+            -97.342849,18.827141,0
+            -97.415326,18.831343,0
+            -97.469214,18.819883,0
+            -97.493558,18.816426,0
+            -97.512996,18.821529,0
+            -97.558209,18.848329,0
+            -97.641789,18.900284,0
+            -97.728069,18.935516,0
+            -97.926137,19.026502,0
+            -98.044018,19.102567,0
+            -98.059803,19.107959,0
+            -98.073868,19.111665,0
+            -98.08834,19.114606,0
+            -98.0996,19.116192,0
+            -98.11167,19.116824,0
+            -98.121738,19.115725,0
+            -98.131213,19.112327,0
+            -98.140307,19.10491,0
+            -98.146188,19.095947,0
+            -98.15947,19.073733,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto CAB Poza Rica-TAR Poza Rica<br>servicio: Poliducto<br>longitud: 2.500000000000000<br>capacidad_: 24000.000000000000000<br>capacida_1: 23000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto CAB Poza Rica-TAR Poza Rica</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>2.500000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>23000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.478585,20.509995,0
+            -97.478599,20.510626,0
+            -97.478406,20.511618,0
+            -97.477746,20.512722,0
+            -97.476945,20.513652,0
+            -97.476349,20.51443,0
+            -97.475757,20.514789,0
+            -97.475449,20.515092,0
+            -97.474936,20.515661,0
+            -97.474323,20.516076,0
+            -97.473974,20.516551,0
+            -97.473747,20.516893,0
+            -97.473196,20.517233,0
+            -97.472442,20.517513,0
+            -97.471485,20.517791,0
+            -97.470367,20.517992,0
+            -97.469735,20.518235,0
+            -97.469326,20.518556,0
+            -97.468832,20.519278,0
+            -97.468088,20.520553,0
+            -97.466975,20.522302,0
+            -97.466806,20.522932,0
+            -97.467098,20.523795,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal TAD Tierra Blanca-TAD Veracruz<br>servicio: Poliducto<br>longitud: 97.799999999999997<br>capacidad_: 28000.000000000000000<br>capacida_1: 14000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal TAD Tierra Blanca-TAD Veracruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>97.799999999999997</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>28000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>14000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.343435,18.443478,0
+            -96.340295,18.445276,0
+            -96.337974,18.446448,0
+            -96.337261,18.447222,0
+            -96.33662,18.448532,0
+            -96.336218,18.449902,0
+            -96.336025,18.45204,0
+            -96.336533,18.457373,0
+            -96.336549,18.458771,0
+            -96.336405,18.460848,0
+            -96.335648,18.463632,0
+            -96.333896,18.467658,0
+            -96.332394,18.470074,0
+            -96.328562,18.474965,0
+            -96.326385,18.477336,0
+            -96.324357,18.479443,0
+            -96.316952,18.484908,0
+            -96.305641,18.489985,0
+            -96.289401,18.49504,0
+            -96.279302,18.50027,0
+            -96.269126,18.510278,0
+            -96.260732,18.526283,0
+            -96.25744,18.536389,0
+            -96.255863,18.556674,0
+            -96.255644,18.570408,0
+            -96.254577,18.597868,0
+            -96.252768,18.632484,0
+            -96.25194,18.645014,0
+            -96.244192,18.659235,0
+            -96.223129,18.682816,0
+            -96.207661,18.708865,0
+            -96.202216,18.735063,0
+            -96.196052,18.766625,0
+            -96.184999,18.790349,0
+            -96.167633,18.816365,0
+            -96.155287,18.841857,0
+            -96.137019,18.883383,0
+            -96.127687,18.915489,0
+            -96.123978,18.948875,0
+            -96.128701,18.966267,0
+            -96.132869,18.979471,0
+            -96.12998,19.001523,0
+            -96.12534,19.015784,0
+            -96.124434,19.031894,0
+            -96.124115,19.050403,0
+            -96.127481,19.073746,0
+            -96.132176,19.09293,0
+            -96.13925,19.119915,0
+            -96.146612,19.205142,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal TED Tierra Blanca-TAD Tierra Blanca<br>servicio: Poliducto<br>longitud: 1.400000000000000<br>capacidad_: 35000.000000000000000<br>capacida_1: 35000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal TED Tierra Blanca-TAD Tierra Blanca</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>1.400000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>35000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>35000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.332846,18.45297,0
+            -96.33382,18.452124,0
+            -96.335127,18.450498,0
+            -96.335681,18.449646,0
+            -96.336053,18.448944,0
+            -96.33653,18.447861,0
+            -96.336962,18.447084,0
+            -96.337696,18.446253,0
+            -96.34327,18.443235,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal Entronque a TA Escamela<br>servicio: Poliducto<br>longitud: 0.000000000000000<br>capacidad_: 75000.000000000000000<br>capacida_1: 63000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Entronque a TA Escamela</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>75000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>63000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.05981,18.859739,0
+            -97.067375,18.87961,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal TED Puebla-TAD Puebla<br>servicio: Poliducto<br>longitud: 0.400000000000000<br>capacidad_: 63000.000000000000000<br>capacida_1: 58000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal TED Puebla-TAD Puebla</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.400000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>63000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>58000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.158693,19.076375,0
+            -98.151502,19.088428,0
+            -98.142601,19.102661,0
+            -98.14089,19.1052,0
+            -98.133994,19.110906,0
+            -98.13172,19.112832,0
+            -98.108386,19.133467,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal de inyección CPI-Estación San Martín<br>servicio: Poliducto<br>longitud: 0.400000000000000<br>capacidad_: 55000.000000000000000<br>capacida_1: 45000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal de inyección CPI-Estación San Martín</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.400000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>55000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>45000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.410424,19.255329,0
+            -98.408203,19.256661,0
+            -98.40508,19.257129,0
+            -98.403163,19.257984,0
+            -98.400439,19.259409,0
+            -98.396904,19.262363,0
+            -98.39499,19.264103,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Tuxpan-Poza Rica-Azcapotzalco<br>servicio: Poliducto<br>longitud: 314.600000000000023<br>capacidad_: 173000.000000000000000<br>capacida_1: 173000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tuxpan-Poza Rica-Azcapotzalco</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>314.600000000000023</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>173000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>173000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.315956,20.972613,0
+            -97.318617,20.962124,0
+            -97.329425,20.951237,0
+            -97.348412,20.936604,0
+            -97.3607,20.929552,0
+            -97.385287,20.914013,0
+            -97.399637,20.90411,0
+            -97.416572,20.889927,0
+            -97.433056,20.870003,0
+            -97.448523,20.849589,0
+            -97.460378,20.833922,0
+            -97.47178,20.812513,0
+            -97.475478,20.798683,0
+            -97.478696,20.781981,0
+            -97.479429,20.759521,0
+            -97.479078,20.743743,0
+            -97.48342,20.716055,0
+            -97.487702,20.694104,0
+            -97.496008,20.676011,0
+            -97.512918,20.660861,0
+            -97.544578,20.642966,0
+            -97.636943,20.593046,0
+            -97.655839,20.580286,0
+            -97.685453,20.560435,0
+            -97.724226,20.536821,0
+            -97.806371,20.480992,0
+            -97.890389,20.43852,0
+            -97.911245,20.430046,0
+            -97.921438,20.422938,0
+            -97.928074,20.416763,0
+            -97.933201,20.408667,0
+            -97.938835,20.400573,0
+            -97.942957,20.391036,0
+            -97.942492,20.384818,0
+            -97.943611,20.369525,0
+            -97.952781,20.362887,0
+            -97.953304,20.3605,0
+            -97.957424,20.350962,0
+            -97.957947,20.348575,0
+            -97.961527,20.343815,0
+            -97.967642,20.33907,0
+            -97.969188,20.335254,0
+            -97.975815,20.329556,0
+            -97.977871,20.325265,0
+            -97.981994,20.31477,0
+            -97.985063,20.310485,0
+            -97.988172,20.299984,0
+            -97.997334,20.293821,0
+            -98.001428,20.287629,0
+            -98.004007,20.280472,0
+            -98.005042,20.277131,0
+            -98.008118,20.271411,0
+            -98.011192,20.266169,0
+            -98.014769,20.261408,0
+            -98.019859,20.257612,0
+            -98.027479,20.254307,0
+            -98.034077,20.252431,0
+            -98.03664,20.247664,0
+            -98.037691,20.241454,0
+            -98.034681,20.236656,0
+            -98.032169,20.233295,0
+            -98.032207,20.22708,0
+            -98.035288,20.220403,0
+            -98.036869,20.210371,0
+            -98.037435,20.200812,0
+            -98.041012,20.195572,0
+            -98.051161,20.19228,0
+            -98.061326,20.186119,0
+            -98.068971,20.178031,0
+            -98.078111,20.173776,0
+            -98.082699,20.168541,0
+            -98.090856,20.15902,0
+            -98.096475,20.150443,0
+            -98.099559,20.14233,0
+            -98.101108,20.137078,0
+            -98.102665,20.130392,0
+            -98.104725,20.124187,0
+            -98.11032,20.119434,0
+            -98.115396,20.117069,0
+            -98.130107,20.111404,0
+            -98.136708,20.107611,0
+            -98.140267,20.10476,0
+            -98.148895,20.100498,0
+            -98.157509,20.098627,0
+            -98.162103,20.091477,0
+            -98.165208,20.078582,0
+            -98.167277,20.069985,0
+            -98.170361,20.060914,0
+            -98.184093,20.04759,0
+            -98.201361,20.034759,0
+            -98.244437,20.020125,0
+            -98.262223,20.002986,0
+            -98.28253,19.986812,0
+            -98.300277,19.976841,0
+            -98.318536,19.964958,0
+            -98.330714,19.955441,0
+            -98.341379,19.944483,0
+            -98.348492,19.93638,0
+            -98.356611,19.929237,0
+            -98.365769,19.914925,0
+            -98.383042,19.893468,0
+            -98.396247,19.877255,0
+            -98.40587,19.872028,0
+            -98.423584,19.865391,0
+            -98.446396,19.845858,0
+            -98.502111,19.805855,0
+            -98.513258,19.795365,0
+            -98.521366,19.787258,0
+            -98.530995,19.776763,0
+            -98.547727,19.754809,0
+            -98.554812,19.749567,0
+            -98.571999,19.744349,0
+            -98.588664,19.744866,0
+            -98.604829,19.743468,0
+            -98.622502,19.74494,0
+            -98.647248,19.745947,0
+            -98.66544,19.7412,0
+            -98.677066,19.735961,0
+            -98.689205,19.726419,0
+            -98.716007,19.7059,0
+            -98.735212,19.694931,0
+            -98.748871,19.678213,0
+            -98.75343,19.668177,0
+            -98.763046,19.650975,0
+            -98.772651,19.640945,0
+            -98.803966,19.623288,0
+            -98.838802,19.610411,0
+            -98.885748,19.588927,0
+            -98.928644,19.573646,0
+            -99.000287,19.552141,0
+            -99.063338,19.537305,0
+            -99.114982,19.52585,0
+            -99.201877,19.465678,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Tuxpan-Poza Rica<br>servicio: Poliducto<br>longitud: 69.400000000000006<br>capacidad_: 24000.000000000000000<br>capacida_1: 23000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tuxpan-Poza Rica</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>69.400000000000006</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>24000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>23000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.314085,20.972195,0
+            -97.316864,20.961241,0
+            -97.328106,20.949916,0
+            -97.347296,20.935128,0
+            -97.359662,20.928031,0
+            -97.384181,20.912535,0
+            -97.398426,20.902704,0
+            -97.415163,20.888688,0
+            -97.431514,20.868924,0
+            -97.446957,20.848542,0
+            -97.458726,20.832988,0
+            -97.469968,20.811881,0
+            -97.473599,20.798302,0
+            -97.47678,20.781791,0
+            -97.477507,20.759512,0
+            -97.477155,20.743629,0
+            -97.481525,20.71576,0
+            -97.485853,20.693576,0
+            -97.494401,20.674957,0
+            -97.503037,20.661153,0
+            -97.507551,20.654022,0
+            -97.509551,20.64418,0
+            -97.508369,20.635206,0
+            -97.508101,20.630125,0
+            -97.505606,20.625622,0
+            -97.500305,20.616015,0
+            -97.490269,20.603977,0
+            -97.479908,20.592832,0
+            -97.472679,20.585896,0
+            -97.468298,20.579882,0
+            -97.465977,20.574036,0
+            -97.462574,20.565341,0
+            -97.461516,20.560103,0
+            -97.460467,20.553969,0
+            -97.467098,20.523795,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Tuxpan-Poza Rica-Tula<br>servicio: Poliducto<br>longitud: 304.199999999999989<br>capacidad_: 82000.000000000000000<br>capacida_1: 81000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Tuxpan-Poza Rica-Tula</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>304.199999999999989</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>82000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>81000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.317826,20.973032,0
+            -97.32037,20.963007,0
+            -97.330744,20.952557,0
+            -97.349529,20.93808,0
+            -97.361738,20.931073,0
+            -97.386394,20.915491,0
+            -97.400848,20.905515,0
+            -97.417982,20.891166,0
+            -97.434598,20.871082,0
+            -97.450089,20.850637,0
+            -97.46203,20.834855,0
+            -97.473592,20.813145,0
+            -97.477357,20.799065,0
+            -97.480611,20.782171,0
+            -97.48135,20.759529,0
+            -97.481002,20.743856,0
+            -97.485314,20.71635,0
+            -97.489551,20.694632,0
+            -97.497615,20.677066,0
+            -97.514088,20.662307,0
+            -97.54555,20.644524,0
+            -97.637983,20.594567,0
+            -97.656955,20.581756,0
+            -97.686531,20.56193,0
+            -97.725309,20.538313,0
+            -97.807389,20.482528,0
+            -97.891223,20.440149,0
+            -97.912207,20.431623,0
+            -97.922687,20.424314,0
+            -97.929594,20.417887,0
+            -97.934826,20.409626,0
+            -97.94054,20.401418,0
+            -97.9449,20.391329,0
+            -97.944413,20.384817,0
+            -97.945463,20.370463,0
+            -97.954514,20.363911,0
+            -97.955145,20.361028,0
+            -97.959265,20.35149,0
+            -97.959742,20.349311,0
+            -97.962942,20.345057,0
+            -97.969251,20.340161,0
+            -97.970815,20.3363,0
+            -97.977398,20.33064,0
+            -97.979644,20.325952,0
+            -97.98371,20.315602,0
+            -97.986824,20.311253,0
+            -97.989835,20.301085,0
+            -97.998757,20.295084,0
+            -98.00317,20.288409,0
+            -98.005834,20.281017,0
+            -98.00683,20.277799,0
+            -98.009811,20.272258,0
+            -98.012816,20.267132,0
+            -98.016172,20.262665,0
+            -98.020867,20.259163,0
+            -98.028158,20.256001,0
+            -98.035414,20.253938,0
+            -98.038483,20.248229,0
+            -98.039691,20.241095,0
+            -98.03629,20.235673,0
+            -98.034087,20.232727,0
+            -98.03412,20.227461,0
+            -98.037144,20.220906,0
+            -98.038776,20.210555,0
+            -98.039318,20.201389,0
+            -98.042261,20.197077,0
+            -98.052001,20.193918,0
+            -98.06258,20.187506,0
+            -98.070151,20.179497,0
+            -98.079324,20.175226,0
+            -98.08418,20.169685,0
+            -98.092419,20.160068,0
+            -98.098208,20.151232,0
+            -98.101384,20.142878,0
+            -98.102965,20.137515,0
+            -98.104516,20.130858,0
+            -98.106394,20.1252,0
+            -98.111404,20.120944,0
+            -98.116181,20.118718,0
+            -98.130971,20.113023,0
+            -98.137831,20.109082,0
+            -98.141342,20.106268,0
+            -98.149563,20.102208,0
+            -98.158726,20.100217,0
+            -98.163899,20.092164,0
+            -98.167073,20.078982,0
+            -98.169124,20.070462,0
+            -98.172045,20.061871,0
+            -98.185375,20.048937,0
+            -98.2023,20.03636,0
+            -98.245495,20.021686,0
+            -98.263525,20.004313,0
+            -98.322173,19.979262,0
+            -98.347485,19.973619,0
+            -98.376834,19.969899,0
+            -98.400095,19.970935,0
+            -98.443556,19.98064,0
+            -98.483975,19.994152,0
+            -98.534308,20.018234,0
+            -98.585017,20.042235,0
+            -98.622392,20.07101,0
+            -98.66887,20.110314,0
+            -98.721316,20.144393,0
+            -98.762322,20.148757,0
+            -98.842485,20.143179,0
+            -98.865442,20.14165,0
+            -98.880573,20.140583,0
+            -98.916646,20.137201,0
+            -98.955202,20.12949,0
+            -99.005633,20.130354,0
+            -99.022638,20.130643,0
+            -99.070309,20.134838,0
+            -99.104178,20.13558,0
+            -99.127836,20.133358,0
+            -99.145575,20.131689,0
+            -99.157983,20.126939,0
+            -99.169681,20.118082,0
+            -99.180264,20.108053,0
+            -99.189549,20.094975,0
+            -99.196323,20.089249,0
+            -99.200942,20.086623,0
+            -99.215166,20.083918,0
+            -99.231332,20.081412,0
+            -99.244591,20.08043,0
+            -99.254356,20.079706,0
+            -99.27403,20.076779,0
+            -99.287353,20.073125,0
+            -99.302276,20.0681,0
+            -99.326186,20.059139,0
+            -99.343652,20.052157,0
+            -99.35,20.05,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Poliducto Minatitlán-Villahermosa<br>servicio: Poliducto<br>longitud: 174.199999999999989<br>capacidad_: 55000.000000000000000<br>capacida_1: 51000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Minatitlán-Villahermosa</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>174.199999999999989</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>55000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>51000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -94.532804,17.978192,0
+            -94.514526,17.985572,0
+            -94.502732,17.993528,0
+            -94.481512,18.004484,0
+            -94.466799,18.009506,0
+            -94.445432,18.011509,0
+            -94.424877,18.011023,0
+            -94.413347,18.008603,0
+            -94.403257,18.008363,0
+            -94.393467,18.010992,0
+            -94.376435,18.018814,0
+            -94.361635,18.027046,0
+            -94.338977,18.035444,0
+            -94.333584,18.041396,0
+            -94.326171,18.053022,0
+            -94.315393,18.064566,0
+            -94.301794,18.069601,0
+            -94.283422,18.071299,0
+            -94.267331,18.07162,0
+            -94.252879,18.066614,0
+            -94.237356,18.059792,0
+            -94.22444,18.053391,0
+            -94.212215,18.049154,0
+            -94.200975,18.049947,0
+            -94.184062,18.053103,0
+            -94.152684,18.051959,0
+            -94.116913,18.047479,0
+            -94.094142,18.046186,0
+            -94.07438,18.044252,0
+            -94.059357,18.046729,0
+            -94.046504,18.051764,0
+            -94.02626,18.053746,0
+            -93.999008,18.052326,0
+            -93.977059,18.048537,0
+            -93.962854,18.048524,0
+            -93.932567,18.048803,0
+            -93.906918,18.043836,0
+            -93.793933,18.022228,0
+            -93.696169,18.005268,0
+            -93.654118,17.999819,0
+            -93.608329,17.994615,0
+            -93.590311,17.989346,0
+            -93.575047,17.983676,0
+            -93.537746,17.974048,0
+            -93.521293,17.966674,0
+            -93.508719,17.962743,0
+            -93.494074,17.961374,0
+            -93.447458,17.955516,0
+            -93.398423,17.955532,0
+            -93.366542,17.956275,0
+            -93.34478,17.959689,0
+            -93.328263,17.962541,0
+            -93.318715,17.965357,0
+            -93.310326,17.970827,0
+            -93.303662,17.976824,0
+            -93.294542,17.981795,0
+            -93.284947,17.986037,0
+            -93.277131,17.98914,0
+            -93.26964,17.989871,0
+            -93.252965,17.989852,0
+            -93.229188,17.986285,0
+            -93.197605,17.977957,0
+            -93.187909,17.977665,0
+            -93.172487,17.977439,0
+            -93.163274,17.977637,0
+            -93.15187,17.97634,0
+            -93.137578,17.972097,0
+            -93.113241,17.970643,0
+            -93.077867,17.971944,0
+            -93.064318,17.975338,0
+            -93.042093,17.97775,0
+            -93.030099,17.979285,0
+            -93.02245,17.984762,0
+            -93.019082,17.988705,0
+            -93.012491,17.992311,0
+            -93.006927,17.994995,0
+            -92.995268,17.99772,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Golfo<br>ducto: Ramal Castañito-Dos Bocas<br>servicio: Poliducto<br>longitud: 59.600000000000001<br>capacidad_: 55000.000000000000000<br>capacida_1: 51000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Golfo</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal Castañito-Dos Bocas</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>59.600000000000001</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>55000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>51000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -93.303662,17.976824,0
+            -93.294929,18.006065,0
+            -93.284705,18.045062,0
+            -93.277715,18.076295,0
+            -93.267526,18.113861,0
+            -93.259314,18.13648,0
+            -93.252126,18.150555,0
+            -93.235207,18.165051,0
+            -93.224212,18.181153,0
+            -93.215384,18.199463,0
+            -93.202001,18.219777,0
+            -93.189505,18.23583,0
+            -93.170426,18.247393,0
+            -93.156694,18.255546,0
+            -93.148118,18.265999,0
+            -93.145084,18.289481,0
+            -93.157692,18.314873,0
+            -93.176185,18.343303,0
+            -93.187592,18.360084,0
+            -93.19314,18.373114,0
+            -93.192853,18.381679,0
+            -93.189334,18.397289,0
+            -93.17612,18.434033,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Magna-ducto Ref. Salina Cruz-TAR Salina Cruz<br>servicio: Magna-ducto<br>longitud: 2.700000000000000<br>capacidad_: 50000.000000000000000<br>capacida_1: 42000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Magna-ducto Ref. Salina Cruz-TAR Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Magna-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>2.700000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>50000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>42000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.164754,16.204463,0
+            -95.171069,16.185088,0
+            -95.185451,16.170706,0
+            -95.192089,16.169393,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Premium-ducto Ref. Salina Cruz-TAR Salina Cruz<br>servicio: Premium-ducto<br>longitud: 2.700000000000000<br>capacidad_: 50000.000000000000000<br>capacida_1: 42000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Premium-ducto Ref. Salina Cruz-TAR Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Premium-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>2.700000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>50000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>42000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.164309,16.204327,0
+            -95.170657,16.184851,0
+            -95.185216,16.170292,0
+            -95.191995,16.168951,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Diésel-ducto Ref. Salina Cruz-TAR Salina Cruz<br>servicio: Diésel-ducto<br>longitud: 2.700000000000000<br>capacidad_: 47000.000000000000000<br>capacida_1: 38000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Diésel-ducto Ref. Salina Cruz-TAR Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Diésel-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>2.700000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>47000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>38000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.163864,16.204192,0
+            -95.170245,16.184614,0
+            -95.184981,16.169878,0
+            -95.191902,16.168509,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Turbosino-ducto Ref. Salina Cruz-TAR Salina Cruz<br>servicio: Turbosino-ducto<br>longitud: 4.000000000000000<br>capacidad_: 45000.000000000000000<br>capacida_1: 23000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Turbosino-ducto Ref. Salina Cruz-TAR Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Turbosino-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>4.000000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>45000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>23000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.166035,16.20481,0
+            -95.172212,16.186064,0
+            -95.186107,16.171924,0
+            -95.192289,16.170786,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sur<br>ducto: Turbosino-ducto Ref. Salina Cruz-TM Salina Cruz<br>servicio: Turbosino-ducto<br>longitud: 10.199999999999999<br>capacidad_: 91000.000000000000000<br>capacida_1: 91000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sur</value>
+          </Data>
+          <Data name="ducto">
+            <value>Turbosino-ducto Ref. Salina Cruz-TM Salina Cruz</value>
+          </Data>
+          <Data name="servicio">
+            <value>Turbosino-ducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>10.199999999999999</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>91000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>91000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.166479,16.204947,0
+            -95.172625,16.186299,0
+            -95.186342,16.17234,0
+            -95.192376,16.171229,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sureste<br>ducto: Poliducto Progreso-Mérida<br>servicio: Poliducto<br>longitud: 37.100000000000001<br>capacidad_: 36000.000000000000000<br>capacida_1: 36000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sureste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Progreso-Mérida</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>37.100000000000001</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>36000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>36000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -89.661224,21.249923,0
+            -89.679346,21.230998,0
+            -89.691071,21.225259,0
+            -89.70284,21.218812,0
+            -89.712255,21.213653,0
+            -89.726245,21.195963,0
+            -89.733173,21.182141,0
+            -89.744405,21.160034,0
+            -89.757673,21.129513,0
+            -89.76672,21.105861,0
+            -89.77208,21.080585,0
+            -89.775757,21.070133,0
+            -89.781558,21.049852,0
+            -89.787049,21.034525,0
+            -89.786419,21.020285,0
+            -89.781843,21.00867,0
+            -89.774165,20.998307,0
+            -89.767198,20.988692,0
+            -89.759302,20.981868,0
+            -89.747105,20.971257,0
+            -89.731494,20.954776,0
+            -89.720632,20.947078,0
+            -89.693057,20.924131,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sureste<br>ducto: Poliducto Progreso-Mérida<br>servicio: Poliducto<br>longitud: 37.200000000000003<br>capacidad_: 22000.000000000000000<br>capacida_1: 21000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sureste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Poliducto Progreso-Mérida</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>37.200000000000003</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>22000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>21000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -89.661578,21.250222,0
+            -89.679642,21.231356,0
+            -89.691301,21.22565,0
+            -89.70308,21.219197,0
+            -89.712579,21.213992,0
+            -89.726656,21.196193,0
+            -89.733603,21.182332,0
+            -89.744841,21.160214,0
+            -89.758118,21.129673,0
+            -89.76718,21.105981,0
+            -89.772541,21.080699,0
+            -89.776213,21.070261,0
+            -89.782014,21.049981,0
+            -89.787528,21.034589,0
+            -89.786891,21.020196,0
+            -89.782268,21.008462,0
+            -89.774557,20.998053,0
+            -89.76756,20.988398,0
+            -89.759625,20.98154,0
+            -89.747445,20.970944,0
+            -89.731818,20.954446,0
+            -89.720933,20.946732,0
+            -89.693372,20.923797,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[descripción: <br>regin: Sureste<br>ducto: Ramal CFE Mérida<br>servicio: Poliducto<br>longitud: 0.700000000000000<br>capacidad_: 22000.000000000000000<br>capacida_1: 21000.000000000000000]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="regin">
+            <value>Sureste</value>
+          </Data>
+          <Data name="ducto">
+            <value>Ramal CFE Mérida</value>
+          </Data>
+          <Data name="servicio">
+            <value>Poliducto</value>
+          </Data>
+          <Data name="longitud">
+            <value>0.700000000000000</value>
+          </Data>
+          <Data name="capacidad_">
+            <value>22000.000000000000000</value>
+          </Data>
+          <Data name="capacida_1">
+            <value>21000.000000000000000</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -89.69449,20.925324,0
+            -89.688459,20.929467,0
+            -89.687219,20.929948,0
+            -89.686236,20.929875,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

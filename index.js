@@ -4,6 +4,7 @@ import cors from 'cors'
 import dotenv from 'dotenv'
 import { auth } from './routes/auth.js'
 import { layers } from './routes/layers.js'
+import { camera } from './routes/camera.js'
 
 dotenv.config()
 
@@ -21,6 +22,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(auth)
 app.use(layers)
+app.use(camera)
 
 app.post('/connect', (request, response) => {
     const { cokie } = request.body

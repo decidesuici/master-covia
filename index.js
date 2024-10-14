@@ -2,23 +2,16 @@ import { WebSocket, WebSocketServer } from 'ws'
 import express from 'express'
 import cors from 'cors'
 import dotenv from 'dotenv'
+import fs from 'fs'
+import https from 'https'
 import { auth } from './routes/auth.js'
 import { layers } from './routes/layers.js'
 import { camera } from './routes/camera.js'
-import fs from 'fs'
-import https from 'https'
 
 dotenv.config()
 
 const app = express()
 const PORT = 5005
-
-// Cargar certificados SSL/TLS
-const server = https.createServer({
-    cert: fs.readFileSync('/ruta/a/tu/certificado.crt'),  // Ruta al certificado .crt
-    key: fs.readFileSync('/ruta/a/tu/llaveprivada.key'),   // Ruta a la clave privada .key
-    ca: fs.readFileSync('/ruta/a/tu/certificado_ca_bundle.crt')  // Ruta al CA bundle si lo tienes (opcional)
-})
 
 app.use(cors({
     origin: 'http://localhost:5173',
@@ -39,7 +32,10 @@ app.post('/connect', (request, response) => {
     response.status(200).send('Conexión WebSocket establecida.')
 })
 
-// Crear el servidor WebSocket sobre HTTPS
+const server = app.listen(PORT, () => {
+    console.log(`Servidor proxy escuchando en http://localhost:${PORT}`)
+})
+
 const wss = new WebSocketServer({ server })
 
 function connectToWebSocket(cokie) {
@@ -54,6 +50,7 @@ function connectToWebSocket(cokie) {
     })
 
     originalWs.on('message', (message) => {
+
         wss.clients.forEach((client) => {
             if (client.readyState === WebSocket.OPEN) {
                 if (JSON.parse(message.toString()).positions) {
@@ -67,8 +64,3 @@ function connectToWebSocket(cokie) {
         })
     })
 }
-
-// Iniciar el servidor HTTPS con WebSocket seguro (WSS)
-server.listen(PORT, () => {
-    console.log(`Servidor HTTPS con WebSocket seguro (WSS) corriendo en el puerto ${PORT}`)
-})
